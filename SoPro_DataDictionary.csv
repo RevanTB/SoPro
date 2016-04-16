@@ -3,12 +3,12 @@ Nummer,Nomen,Bedeutung
 2,Vertrag,
 3,Betroffene,
 4,Vertragsinhalte,
-5,VertragsÃ¤nderung,
-6,Ãœbersichten,
+5,Vertragsaenderung,
+6,Uebersichten,
 7,Zugriff,
 8,Auswertungen,
-9,TerminÃ¼berwachung,
-10,FristÃ¼berwachung,
+9,Terminueberwachung,
+10,Fristueberwachung,
 11,Mandant,
 12,Workflowengine,
 13,Benachrichtigungswesen,
@@ -16,21 +16,21 @@ Nummer,Nomen,Bedeutung
 15,Dokumentenverwaltung,
 16,Organisationseinheiten,
 17,Besitzer,
-18,MandantenÃ¼bergreifend,
+18,Mandantenuebergreifend,
 19,Vorstand,Organisationseinheiten
 20,Servicecenter,Organisationseinheiten
 21,IT,Organisationseinheiten
 22,Kosten,
 23,Kostenstellen,
 24,Vertragsarten,
-25,SupportvertrÃ¤ge,
-26,MietvertrÃ¤ge,
-27,KooperationsvertrÃ¤ge,
+25,Supportvertraege,
+26,Mietvertraege,
+27,Kooperationsvertraege,
 28,Untergliederung,
 29,Kostenarten,
-30,EDV-VertrÃ¤ge,
-31,TelekommunikationsvertrÃ¤ge,
-32,Ãœberwachung,
+30,EDV-Vertraege,
+31,Telekommunikationsvertraege,
+32,Ueberwachung,
 33,Benachrichtigungsfunktion,
 34,Eskalationsmanagement,
 35,Benachrichtigung,
@@ -39,17 +39,17 @@ Nummer,Nomen,Bedeutung
 38,Mitarbeiterzuordnung,
 39,Eskalationsstufen,
 40,Personen,
-41,AufgabenausÃ¼bung,
+41,Aufgabenausuebung,
 42,Deligiert,
 43,Aufgaben,
 44,Berechtigungen,
 45,Technischer Betrieb,Aufgaben
-46,MandatenÃ¼bergreifen,
-47,Ãœbersicht,
-48,RahmenvertrÃ¤ge,
-49,EinzelvertrÃ¤ge,
+46,Mandatenuebergreifen,
+47,Uebersicht,
+48,Rahmenvertraege,
+49,Einzelvertraege,
 50,Berichtswesen,
-51,ExportmÃ¶glichkeit,
+51,Exportmoeglichkeit,
 52,Dokumente,
 53,Fundortverwaltung,
 54,Originale,
@@ -73,7 +73,7 @@ Nummer,Nomen,Bedeutung
 72,Detailansicht,
 73,Dispatcher,
 74,Link,
-75,VollstÃ¤ndigkeit,
+75,Vollstaendigkeit,
 76,Speichern,
 77,Bedingung,
 78,Kopie,
@@ -86,11 +86,11 @@ Nummer,Nomen,Bedeutung
 85,Inhaber,
 86,Sonderfall,
 87,Ablauf,
-88,AbsÃ¤tze,
+88,Absaetze,
 89,Stelle,
 90,Software,
 91,Zuweisung,
-92,MÃ¶glichkeit,
+92,Moeglichkeit,
 93,Flag,
 94,Standardauswertung,
 95,Leserechte,
@@ -103,31 +103,31 @@ Nummer,Nomen,Bedeutung
 102,Suchkriterien,
 103,Ansicht,
 104,Bearbeitung,
-105,AbstÃ¤nde,
+105,Abstaende,
 106,Task,
 107,Erinnerungstermin,
 108,Eskalationstermin,
-109,ZustÃ¤ndiger,
-110,Ãœbersicht,
+109,Zustaendiger,
+110,Uebersicht,
 111,Gleichzeitigkeit,
 112,Auswahl,
-113,Ã„nderung,
+113,Aenderung,
 114,Ursache,
-115,PrÃ¼fung,
+115,Pruefung,
 116,Erzeugung,
 117,Kennzeichnung,
-118,Zur verfÃ¼gung stellen,
+118,Zur verfuegung stellen,
 119,Unterlagen,
 120,Bezeichnun,
 121,Freitextfeld,
 122,Pflicht,
 123,Kategorie,
 124,Auswahlfeld,
-125,KÃ¼ndigung,
+125,Kuendigung,
 126,Schriftverker,
 127,Bemerkung,
 128,Freitext,
-129,OptionalitÃ¤t,
+129,Optionalitaet,
 130,Finanzkontrolling,
 131,Terminkontrolling,
 132,Vertragskontrolling,
@@ -138,19 +138,19 @@ Nummer,Nomen,Bedeutung
 137,Export,
 138,Stammdatenverwaltung,
 139,Maske,
-140,LÃ¶schung,
+140,Loeschung,
 141,Organigramm,
 142,Unternehmen,
 143,Unternehmensleitung,
 144,Bezirkskrankenhaus,
 145,Buchhaltungssicht,
 146,Buchungskreise,
-147,Wohnen und FÃ¶rdern,
+147,Wohnen und Foerdern,
 148,Unterabteilung,
 149,Abteilungsleitung,
 150,Stellvertreter,
 151,Liegenschaften,
-152,LeistungsempfÃ¤nger,
+152,Leistungsempfaenger,
 153,Leistungsbringer,
 154,Vertragstyp,
 155,Vertragsart,
@@ -184,53 +184,53 @@ Nummer,Nomen,Bedeutung
 183,Sperren,
 184,IT-Vertrag,
 185,Passwort,Dient dem System zur Authentifizierung eines Benutzers.
-186,Authentifizierung,Sicherstellung der Identität eines Benutzers.
+186,Authentifizierung,Sicherstellung der Identitaet eines Benutzers.
 187,Erinnerungsmail,Nachricht an die E-Mail-Adresse eines Benutzers.
 188,Mailadresse,"(klar, keine spezielle Verwendung >>> weglassen)"
 189,Originaldokument,"Physisches Dokument, welches keine Kopie ist."
 190,Bedarf,"(keine spezielle Bedeutung, Begriffsverwendung allgemein >>> weglassen)"
-191,Aufenthaltsort,Angabe über einen physischen Ort bzgl. eines Dokuments.
-192,ZustÃ¤ndigkeitsbereich,Enthält Zuständigkeiten bzgl. Verträgen.
+191,Aufenthaltsort,Angabe ueber einen physischen Ort bzgl. eines Dokuments.
+192,Zustaendigkeitsbereich,Enthaelt Zustaendigkeiten bzgl. Vertraegen.
 193,Vertragsdaten,Inhalte die einen Vertrag spezifizieren.
-194,Regionalleiter,Verantwortlicher über einen Zuständigkeitsbereich.
-195,SC-Leiter,Verantwortlicher über einen Zuständigkeitsbereich.
-196,Vorstand,Verantwortlicher über einen Zuständigkeitsbereich.
-197,DLZ-Leiter,Verantwortlicher über einen Zuständigkeitsbereich.
+194,Regionalleiter,Verantwortlicher ueber einen Zustaendigkeitsbereich.
+195,SC-Leiter,Verantwortlicher ueber einen Zustaendigkeitsbereich.
+196,Vorstand,Verantwortlicher ueber einen Zustaendigkeitsbereich.
+197,DLZ-Leiter,Verantwortlicher ueber einen Zustaendigkeitsbereich.
 198,Vertretung,Vertritt einen Dispatcher.
-199,LaufzeitÃ¼berwachung,Informationen über die Laufzeiten von Verträgen können durch einen Dispatcher geprüft werden.
-200,FristenÃ¼berwachung,Informationen über die Fristen von Verträgen können durch einen Dispatcher geprüft werden.
-201,AktualitÃ¤t,Vertragsdaten sind mit den neuesten Änderungen synchronisiert.
-202,Aktualisierung,"Vorgang, bei dem Vertragsdaten mit den neuesten Änderungen synchronisiert werden."
-203,Nutzerrechte,"Definieren die Möglichkeiten eines Benutzers, durch Vergabe von Rechten im System einzugreifen. Diese können erweitert, aber auch eingeschränkt werden."
-204,Administratorrechte,Dienen der Pflege der Stammdaten. Es gibt allerdings keine Berechtigung zur Anzeige oder Bearbeitung von Verträgen. Die Sperrung eines Benutzers für das Vertragsmanagement ist möglich.
+199,Laufzeitueberwachung,Informationen ueber die Laufzeiten von Vertraegen koennen durch einen Dispatcher geprueft werden.
+200,Fristenueberwachung,Informationen ueber die Fristen von Vertraegen koennen durch einen Dispatcher geprueft werden.
+201,Aktualitaet,Vertragsdaten sind mit den neuesten Aenderungen synchronisiert.
+202,Aktualisierung,"Vorgang, bei dem Vertragsdaten mit den neuesten Aenderungen synchronisiert werden."
+203,Nutzerrechte,"Definieren die Moeglichkeiten eines Benutzers, durch Vergabe von Rechten im System einzugreifen. Diese koennen erweitert, aber auch eingeschraenkt werden."
+204,Administratorrechte,Dienen der Pflege der Stammdaten. Es gibt allerdings keine Berechtigung zur Anzeige oder Bearbeitung von Vertraegen. Die Sperrung eines Benutzers fuer das Vertragsmanagement ist moeglich.
 205,Recht,(information mehr oder weniger in nutzerrechte enthalten)
-206,Anzeige,Rechnergestützte Darstellung eines Vertrags in einem softwareergonomischem Kontext.
-207,Bearbeitung,Interaktive Änderung der Vertragsdaten.
-208,Rollenkonzept,"Das normale Rollenkonzept beschränkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur, zu der der zugehörige Benutzer gehört. Darüber hinaus soll es die Möglichkeit geben über dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte für alle Mandanten oder Organisationsstrukturen zu geben. Ermöglicht z.B. mandantenübergreifende Auswertungen."
-209,Wirkungsbereich,Spezifiziertes Umfeld im System in welchem ein Benutzer  agieren kann. Im normalen Rollenkonzept auf den Mandant oder die Organisationsstruktur des jeweiligen Benutzers beschränkt.
+206,Anzeige,Rechnergestuetzte Darstellung eines Vertrags in einem softwareergonomischem Kontext.
+207,Bearbeitung,Interaktive Aenderung der Vertragsdaten.
+208,Rollenkonzept,"Das normale Rollenkonzept beschraenkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur, zu der der zugehoerige Benutzer gehoert. Darueber hinaus soll es die Moeglichkeit geben ueber dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte fuer alle Mandanten oder Organisationsstrukturen zu geben. Ermoeglicht z.B. mandantenuebergreifende Auswertungen."
+209,Wirkungsbereich,Spezifiziertes Umfeld im System in welchem ein Benutzer  agieren kann. Im normalen Rollenkonzept auf den Mandant oder die Organisationsstruktur des jeweiligen Benutzers beschraenkt.
 210,Organisationsstruktur,
 211,Anwender,"(kann man weglassen, da Wortbedeutung User)"
 212,Interne Vertragsnummer,Wird automatisch erzeugt und dient dem System intern zur Identifikation eines Vertrags.
-213,Index,Interne Vertragsnummer als Index des zugehörigen Vertrags.
+213,Index,Interne Vertragsnummer als Index des zugehoerigen Vertrags.
 214,Weise,(weglassen)
 215,Externe Vertragsnummer,Wurde vom Vertragspartner festgelegt.
 216,Vertragstyp,Pflichtfeld: Auswahlfeld -> siehe Stammdaten
 217,Vertragsart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten
-218,Unterart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten. Die Auswahl ist abhängig von der gewählten Vertragsart.
-219,Zugeordnete Abteilung,Abteilung für die ein Vertrag eine verbindliche Auswirkung hat.
-220,Ãœberwachtende Abteilung,"Ein Status einer Abteilung, der dadurch festgelegt wurde, dass deren Dispatcher die Aufgabe hat, einen Vertrag zu überwachen."
-221,Nettokosten,"Effektive (bzw. tatsächlich eingetretene) Nettokosten, die im Feld Betrag als Kosten eingegeben werden."
+218,Unterart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten. Die Auswahl ist abhaengig von der gewaehlten Vertragsart.
+219,Zugeordnete Abteilung,Abteilung fuer die ein Vertrag eine verbindliche Auswirkung hat.
+220,Ueberwachtende Abteilung,"Ein Status einer Abteilung, der dadurch festgelegt wurde, dass deren Dispatcher die Aufgabe hat, einen Vertrag zu ueberwachen."
+221,Nettokosten,"Effektive (bzw. tatsaechlich eingetretene) Nettokosten, die im Feld Betrag als Kosten eingegeben werden."
 222,Kostenanalyse,Um die Aussagekraft dieser zu verbessern werden Flags eingesetzt.
 223,Aussagekraft,"(weglassen,zu allgemein)"
-224,Vorauskasse,"Flag, das bei Verträgen gesetzt wird, die durch eine Einmalzahlung langfristig gelten."
+224,Vorauskasse,"Flag, das bei Vertraegen gesetzt wird, die durch eine Einmalzahlung langfristig gelten."
 225,Einmalzahlung,"(Bedeutung eher allgemein, weglassen)"
-226,Filterung,"Mechanismus, welcher der gezielten Auflistung von Verträgen dient, die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
+226,Filterung,"Mechanismus, welcher der gezielten Auflistung von Vertraegen dient, die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
 227,Folgejahre,(zu allgemein weglassen)
 228,Bezahlung,"(zu allgemein, weglassen)"
-229,Variabel,"Flag, das bei Verträgen gesetzt wird, die verbrauchsabhängig variable Kosten verursachen."
-230,Anpassung,"Flag, das bei Verträgen gesetzt wird, die Preisanpassungsklauseln durch Lohnsteigerungsindex usw. unterliegen."
+229,Variabel,"Flag, das bei Vertraegen gesetzt wird, die verbrauchsabhaengig variable Kosten verursachen."
+230,Anpassung,"Flag, das bei Vertraegen gesetzt wird, die Preisanpassungsklauseln durch Lohnsteigerungsindex usw. unterliegen."
 231,Verbrauch,
-232,GrÃ¶ÃŸe,
+232,Groesse,
 233,Zahlungsbeginn,
 234,Preisanpassungsklauseln,
 235,Lohnsteigerungsindex,
@@ -241,24 +241,24 @@ Nummer,Nomen,Bedeutung
 240,Stammdaten,
 241,Inkrafttreten,
 242,Vertragsbeginn,
-243,KÃ¼ndigungsfrist,
-244,KÃ¼ndigungstermin,
+243,Kuendigungsfrist,
+244,Kuendigungstermin,
 245,Vorzeitig,
 246,Vorzeitigkeit,
 247,Vertragsende,
 248,Erinnerung,
-249,KÃ¼ndigung,
-250,KÃ¼ndigungstermin,
+249,Kuendigung,
+250,Kuendigungstermin,
 251,Feld,
 252,Berechnungshilfe,
 253,Erinnerungsdatum,
 254,Vertragsstatus,
 255,Elektronisches Vertragsdokument,
 256,Ablauf,
-257,BenutzeroberflÃ¤che,
+257,Benutzeroberflaeche,
 258,Ladezeit,
 259,Programmierung,
-260,IntuitivitÃ¤t,
+260,Intuitivitaet,
 261,Basis,
 262,Benutzerfreundlichkeit,
 263,HTML5,
