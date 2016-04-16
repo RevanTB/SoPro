@@ -161,7 +161,7 @@ Nummer,Nomen,Bedeutung
 160,Wartung,
 161,Dienstleistung,
 162,Neuanlage,
-163,Import ,
+163,Import,
 164,Export,
 165,Importfunktion,
 166,Exportfunktion,
@@ -183,52 +183,52 @@ Nummer,Nomen,Bedeutung
 182,Rechtevergabe,
 183,Sperren,
 184,IT-Vertrag,
-185,Passwort,
-186,Authentifizierung,
-187,Errinnerungsmail,
-188,Mailadresse,
-189,Originaldokument,
-190,Bedarf,
-191,Aufenthaltsort,
-192,ZustÃ¤ndigkeitsbereich,
-193,Vertragsdaten,ZustÃ¤ndigkeitsbereich
-194,Regionalleiter,ZustÃ¤ndigkeitsbereich
-195,SC-Leiter,ZustÃ¤ndigkeitsbereich
-196,Vorstand,ZustÃ¤ndigkeitsbereich
-197,DLZ-Leiter,
-198,Vertretung,
-199,LaufzeitÃ¼berwachung,
-200,FristenÃ¼berwachung,
-201,AktualitÃ¤t,
-202,Aktualisierung,
-203,Nutzerrechte,
-204,Administratorrechte,
-205,Recht,
-206,Anzeige,
-207,Bearbeitung,
-208,Rollenkonzept,
-209,Wirkungsbereich,
+185,Passwort,Dient dem System zur Authentifizierung eines Benutzers.
+186,Authentifizierung,Sicherstellung der Identität eines Benutzers.
+187,Erinnerungsmail,Nachricht an die E-Mail-Adresse eines Benutzers.
+188,Mailadresse,"(klar, keine spezielle Verwendung >>> weglassen)"
+189,Originaldokument,"Physisches Dokument, welches keine Kopie ist."
+190,Bedarf,"(keine spezielle Bedeutung, Begriffsverwendung allgemein >>> weglassen)"
+191,Aufenthaltsort,Angabe über einen physischen Ort bzgl. eines Dokuments.
+192,ZustÃ¤ndigkeitsbereich,Enthält Zuständigkeiten bzgl. Verträgen.
+193,Vertragsdaten,Inhalte die einen Vertrag spezifizieren.
+194,Regionalleiter,Verantwortlicher über einen Zuständigkeitsbereich.
+195,SC-Leiter,Verantwortlicher über einen Zuständigkeitsbereich.
+196,Vorstand,Verantwortlicher über einen Zuständigkeitsbereich.
+197,DLZ-Leiter,Verantwortlicher über einen Zuständigkeitsbereich.
+198,Vertretung,Vertritt einen Dispatcher.
+199,LaufzeitÃ¼berwachung,Informationen über die Laufzeiten von Verträgen können durch einen Dispatcher geprüft werden.
+200,FristenÃ¼berwachung,Informationen über die Fristen von Verträgen können durch einen Dispatcher geprüft werden.
+201,AktualitÃ¤t,Vertragsdaten sind mit den neuesten Änderungen synchronisiert.
+202,Aktualisierung,"Vorgang, bei dem Vertragsdaten mit den neuesten Änderungen synchronisiert werden."
+203,Nutzerrechte,"Definieren die Möglichkeiten eines Benutzers, durch Vergabe von Rechten im System einzugreifen. Diese können erweitert, aber auch eingeschränkt werden."
+204,Administratorrechte,Dienen der Pflege der Stammdaten. Es gibt allerdings keine Berechtigung zur Anzeige oder Bearbeitung von Verträgen. Die Sperrung eines Benutzers für das Vertragsmanagement ist möglich.
+205,Recht,(information mehr oder weniger in nutzerrechte enthalten)
+206,Anzeige,Rechnergestützte Darstellung eines Vertrags in einem softwareergonomischem Kontext.
+207,Bearbeitung,Interaktive Änderung der Vertragsdaten.
+208,Rollenkonzept,"Das normale Rollenkonzept beschränkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur, zu der der zugehörige Benutzer gehört. Darüber hinaus soll es die Möglichkeit geben über dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte für alle Mandanten oder Organisationsstrukturen zu geben. Ermöglicht z.B. mandantenübergreifende Auswertungen."
+209,Wirkungsbereich,Spezifiziertes Umfeld im System in welchem ein Benutzer  agieren kann. Im normalen Rollenkonzept auf den Mandant oder die Organisationsstruktur des jeweiligen Benutzers beschränkt.
 210,Organisationsstruktur,
-211,Anwender,
-212,Interne Vertragsnummer,
-213,Index,
-214,Weise,
-215,Externe Vertragsnummer,
-216,Vertragstyp,
-217,Vertragsart,
-218,Unterart,
-219,Zugeordnete Abteiluzng,
-220,Ãœberwachtende Abteilung,
-221,Nettokosten,
-222,Kostenanalyse,
-223,Aussagekraft,
-224,Vorrauskasse,
-225,Einmalzahlung,
-226,Filter,
-227,Folgejahre,
-228,Bezahlung,
-229,Variabel,
-230,Anpassung,
+211,Anwender,"(kann man weglassen, da Wortbedeutung User)"
+212,Interne Vertragsnummer,Wird automatisch erzeugt und dient dem System intern zur Identifikation eines Vertrags.
+213,Index,Interne Vertragsnummer als Index des zugehörigen Vertrags.
+214,Weise,(weglassen)
+215,Externe Vertragsnummer,Wurde vom Vertragspartner festgelegt.
+216,Vertragstyp,Pflichtfeld: Auswahlfeld -> siehe Stammdaten
+217,Vertragsart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten
+218,Unterart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten. Die Auswahl ist abhängig von der gewählten Vertragsart.
+219,Zugeordnete Abteilung,Abteilung für die ein Vertrag eine verbindliche Auswirkung hat.
+220,Ãœberwachtende Abteilung,"Ein Status einer Abteilung, der dadurch festgelegt wurde, dass deren Dispatcher die Aufgabe hat, einen Vertrag zu überwachen."
+221,Nettokosten,"Effektive (bzw. tatsächlich eingetretene) Nettokosten, die im Feld Betrag als Kosten eingegeben werden."
+222,Kostenanalyse,Um die Aussagekraft dieser zu verbessern werden Flags eingesetzt.
+223,Aussagekraft,"(weglassen,zu allgemein)"
+224,Vorauskasse,"Flag, das bei Verträgen gesetzt wird, die durch eine Einmalzahlung langfristig gelten."
+225,Einmalzahlung,"(Bedeutung eher allgemein, weglassen)"
+226,Filterung,"Mechanismus, welcher der gezielten Auflistung von Verträgen dient, die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
+227,Folgejahre,(zu allgemein weglassen)
+228,Bezahlung,"(zu allgemein, weglassen)"
+229,Variabel,"Flag, das bei Verträgen gesetzt wird, die verbrauchsabhängig variable Kosten verursachen."
+230,Anpassung,"Flag, das bei Verträgen gesetzt wird, die Preisanpassungsklauseln durch Lohnsteigerungsindex usw. unterliegen."
 231,Verbrauch,
 232,GrÃ¶ÃŸe,
 233,Zahlungsbeginn,
