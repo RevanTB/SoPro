@@ -141,13 +141,13 @@ Nummer;Nomen;Bedeutung
 140;Loeschung;Entfernen von Daten aus der Datenhaltung
 141;Organigramm;ein Schaubild das in Form einer Pfeilgrafik Strukturen innerhalb eines Unternehmens zeigt.
 142;Unternehmen;Eine Firma. In diesem Fall die Bezirkskliniken Schwaben.
-143;Unternehmensleitung;"Ein Mandant. Die Aufgabe der Unternehmensfuehrung besteht in finalen Entscheidungen ueber betriebliche Ablaeufe; Unterzeichnung von Vertraegen; die das ganze Unternehmen betreffen; und in der Bekleidung einer repraesentativen Rolle."
+143;Unternehmensleitung;"Ein Mandant. Die Aufgabe der Unternehmensfuehrung besteht in finalen Entscheidungen ueber betriebliche Ablaeufe, Unterzeichnung von Vertraegen, die das ganze Unternehmen betreffen, und in der Bekleidung einer repraesentativen Rolle."
 144;Bezirkskrankenhaus;Ein Mandant.
 145;Buchhaltungssicht;Wie ein Sachverhalt vom Standpunkt der Buchhaltung gesehen wird.
 146;Buchungskreise;Die Art und Weise wie Mandanten in der Buchhaltung eingeteilt werden.
 147;Wohnen und Foerdern;Ein Mandant.
 148;Unterabteilung;kleinere Abteilung in einer groesseren 
-149;Abteilungsleitung;"Die Abteilungsleitung sind die Fuehrungskraefte einer Organisationseinheit; der Abteilung."
+149;Abteilungsleitung;"Die Abteilungsleitung sind die Fuehrungskraefte einer Organisationseinheit, der Abteilung."
 150;Stellvertreter;jmd. Der einen anderen vertritt und fuer eine gewisse Zeit seine Aufgaben uebernimmt. 
 151;Liegenschaften;Ein Grundstueck in der Rechts- und Wirtschaftssprache
 152;Leistungsempfaenger;jmd. der Aufwenungen erhaelt
@@ -175,20 +175,20 @@ Nummer;Nomen;Bedeutung
 174;Stellvertretender Dispatcher;leitender Angestellter zur Ueberwachung (industrieller) Produktionsablaeufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfuegung stehenden Mittel und gewaehrleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
 175;User;Des Benutzer eines Systems
 176;Anbindung;die Integration von etwas in ein System. 
-177;Active Directory;"Active Directory ermoeglicht es; ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer; Gruppen; Computer; Dienste; Server; Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren; bereitstellen und ueberwachen. "
+177;Active Directory;"Active Directory ermoeglicht es, ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer; Gruppen; Computer; Dienste; Server; Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren; bereitstellen und ueberwachen. "
 178;Gruppe;Repraesentation einer Abteilung im Active Directory
 179;Gruppenname;Die Bezeichnung einer Gruppe
 180;Attribut;Merkmal eines Objekts
 181;Abgleich;"Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht; so dass jedes System die aktualisierten Daten enthaelt. "
 182;Rechtevergabe;Einem Benutzer werden Rechte zugeteilt
 183;Sperren;Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
-184;IT-Vertrag;"Ein Vertragstyp. Moegliche Untertypen: Software; Hardware; …"
+184;IT-Vertrag;"Ein Vertragstyp. Moegliche Untertypen: Software, Hardware, …"
 185;Passwort;Dient dem System zur Authentifizierung eines Benutzers.
 186;Authentifizierung;Sicherstellung der Identitaet eines Benutzers.
 187;Erinnerungsmail;Nachricht an die E-Mail-Adresse eines Benutzers.
 188;Mailadresse;"(klar; keine spezielle Verwendung >>> weglassen)"
-189;Originaldokument;"Physisches Dokument; welches keine Kopie ist."
-190;Bedarf;"(keine spezielle Bedeutung; Begriffsverwendung allgemein >>> weglassen)"
+189;Originaldokument;"Physisches Dokument, welches keine Kopie ist."
+190;Bedarf;"(keine spezielle Bedeutung, Begriffsverwendung allgemein >>> weglassen)"
 191;Aufenthaltsort;Angabe ueber einen physischen Ort bzgl. eines Dokuments.
 192;Zustaendigkeitsbereich;Enthaelt Zustaendigkeiten bzgl. Vertraegen.
 193;Vertragsdaten;Inhalte die einen Vertrag spezifizieren.
@@ -200,16 +200,16 @@ Nummer;Nomen;Bedeutung
 199;Laufzeitueberwachung;Informationen ueber die Laufzeiten von Vertraegen koennen durch einen Dispatcher geprueft werden.
 200;Fristenueberwachung;Informationen ueber die Fristen von Vertraegen koennen durch einen Dispatcher geprueft werden.
 201;Aktualitaet;Vertragsdaten sind mit den neuesten Aenderungen synchronisiert.
-202;Aktualisierung;"Vorgang; bei dem Vertragsdaten mit den neuesten Aenderungen synchronisiert werden."
-203;Nutzerrechte;"Definieren die Moeglichkeiten eines Benutzers; durch Vergabe von Rechten im System einzugreifen. Diese koennen erweitert; aber auch eingeschraenkt werden."
+202;Aktualisierung;"Vorgang, bei dem Vertragsdaten mit den neuesten Aenderungen synchronisiert werden."
+203;Nutzerrechte;"Definieren die Moeglichkeiten eines Benutzers, durch Vergabe von Rechten im System einzugreifen. Diese koennen erweitert, aber auch eingeschraenkt werden."
 204;Administratorrechte;Dienen der Pflege der Stammdaten. Es gibt allerdings keine Berechtigung zur Anzeige oder Bearbeitung von Vertraegen. Die Sperrung eines Benutzers fuer das Vertragsmanagement ist moeglich.
 205;Recht;(information mehr oder weniger in nutzerrechte enthalten)
 206;Anzeige;Rechnergestuetzte Darstellung eines Vertrags in einem softwareergonomischem Kontext.
 207;Bearbeitung;Interaktive Aenderung der Vertragsdaten.
-208;Rollenkonzept;"Das normale Rollenkonzept beschraenkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur; zu der der zugehoerige Benutzer gehoert. Darueber hinaus soll es die Moeglichkeit geben ueber dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte fuer alle Mandanten oder Organisationsstrukturen zu geben. Ermoeglicht z.B. mandantenuebergreifende Auswertungen."
+208;Rollenkonzept;"Das normale Rollenkonzept beschraenkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur, zu der der zugehoerige Benutzer gehoert. Darueber hinaus soll es die Moeglichkeit geben ueber dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte fuer alle Mandanten oder Organisationsstrukturen zu geben. Ermoeglicht z.B. mandantenuebergreifende Auswertungen."
 209;Wirkungsbereich;Spezifiziertes Umfeld im System in welchem ein Benutzer  agieren kann. Im normalen Rollenkonzept auf den Mandant oder die Organisationsstruktur des jeweiligen Benutzers beschraenkt.
 210;Organisationsstruktur;
-211;Anwender;"(kann man weglassen; da Wortbedeutung User)"
+211;Anwender;"(kann man weglassen, da Wortbedeutung User)"
 212;Interne Vertragsnummer;Wird automatisch erzeugt und dient dem System intern zur Identifikation eines Vertrags.
 213;Index;Interne Vertragsnummer als Index des zugehoerigen Vertrags.
 214;Weise;(weglassen)
@@ -218,16 +218,16 @@ Nummer;Nomen;Bedeutung
 217;Vertragsart;Pflichtfeld: Auswahlfeld -> siehe Stammdaten
 218;Unterart;Pflichtfeld: Auswahlfeld -> siehe Stammdaten. Die Auswahl ist abhaengig von der gewaehlten Vertragsart.
 219;Zugeordnete Abteilung;Abteilung fuer die ein Vertrag eine verbindliche Auswirkung hat.
-220;Ueberwachtende Abteilung;"Ein Status einer Abteilung; der dadurch festgelegt wurde; dass deren Dispatcher die Aufgabe hat; einen Vertrag zu ueberwachen."
-221;Nettokosten;"Effektive (bzw. tatsaechlich eingetretene) Nettokosten; die im Feld Betrag als Kosten eingegeben werden."
+220;Ueberwachtende Abteilung;"Ein Status einer Abteilung, der dadurch festgelegt wurde, dass deren Dispatcher die Aufgabe hat, einen Vertrag zu ueberwachen."
+221;Nettokosten;"Effektive (bzw. tatsaechlich eingetretene) Nettokosten, die im Feld Betrag als Kosten eingegeben werden."
 222;Kostenanalyse;Um die Aussagekraft dieser zu verbessern werden Flags eingesetzt.
-223;Aussagekraft;"(weglassen;zu allgemein)"
-224;Vorauskasse;"Flag; das bei Vertraegen gesetzt wird; die durch eine Einmalzahlung langfristig gelten."
-225;Einmalzahlung;"(Bedeutung eher allgemein; weglassen)"
-226;Filterung;"Mechanismus; welcher der gezielten Auflistung von Vertraegen dient; die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
+223;Aussagekraft;"(weglassen,zu allgemein)"
+224;Vorauskasse;"Flag, das bei Vertraegen gesetzt wird, die durch eine Einmalzahlung langfristig gelten."
+225;Einmalzahlung;"(Bedeutung eher allgemein, weglassen)"
+226;Filterung;"Mechanismus, welcher der gezielten Auflistung von Vertraegen dient, die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
 227;Folgejahre;(zu allgemein weglassen)
-228;Bezahlung;"(zu allgemein; weglassen)"
-229;Variabel;"Flag; das bei Vertraegen gesetzt wird; die verbrauchsabhaengig variable Kosten verursachen."
+228;Bezahlung;"(zu allgemein, weglassen)"
+229;Variabel;"Flag, das bei Vertraegen gesetzt wird, die verbrauchsabhaengig variable Kosten verursachen."
 230;Anpassung;Flag die representiert ob Preisveraenderungen bei einem Vertrag moeglich sind
 231;Verbrauch;variable Kosten aufgrund unterschiedlichen Verbauch zb Stromrechnung
 232;Groesse;Geldmenge
@@ -253,7 +253,7 @@ Nummer;Nomen;Bedeutung
 252;Berechnungshilfe;kleines Tool das das Datum anhand einer Restlaufzeit berechnet
 253;Erinnerungsdatum;Der Tag an dem der dispatcher an eine Aufgabe erinnert wurde
 254;Vertragsstatus;Ein Vertrag kann mehrere Stati haben bsp Aktiv beendet gekuendigt
-255;Elektronisches Vertragsdokument;elektronische Kopie des Vertragsdokuments
+255;Elektronisches Vertragsdokument,elektronische Kopie des Vertragsdokuments
 256;Ablaufen;Der Vertrag verliert seine Gueltigkeit
 257;Benutzeroberflaeche;GUI
 258;Ladezeit;Die Zeit die das System benoetigt um die Seiten aufzurufen
