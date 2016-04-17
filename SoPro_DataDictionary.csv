@@ -157,18 +157,17 @@ Nummer;Nomen;Bedeutung
 156;Hardware;Ein Vertragstyp. Die Geraete die zu einer Datenverarbeitungsanlage gehoeren. 
 157;Merkmal;ein charakteristisches Kennzeichen das typisch fuer jmdn. oder etwas ist. 
 158;Kauf;Vertragsart
-159;Miete;Vertragsart. Der Geldbetrag den man dem Eigentuemer einer Wohnung monatlich bezahlen muss; damit man in seiner Wohnung wohnen darf. 
+159;Miete;Vertragsart. Der Geldbetrag den man dem Eigentuemer einer Wohnung monatlich bezahlen muss, damit man in seiner Wohnung wohnen darf. 
 160;Wartung;Vertragsart
 161;Dienstleistung;Vertragsart
 162;Neuanlage;Hinzufuegen von Daten in die Datenhaltung
-163;Import;Hinzufuegen von Daten aus einem
- anderen System in die Datenhaltung
+163;Import;Hinzufuegen von Daten aus einem anderen System in die Datenhaltung
 164;Export;Hinzufuegen von Daten in ein anderes System aus der Datenhaltung
 165;Importfunktion;
 166;Exportfunktion;
 167;Kostenstellenplan;Der Kostenstellenplan ist eine systematisch geordnete Zusammenstellung aller Kostenstellen eines Unternehmens 
 168;Eingabemaske;In einer EDV-Anlage werden neue Daten fuer die Speicherung in einer Maske erfasst.
-169;Minimalanforderung;Als Mindestanforderungen bezeichnet man allgemein die Anforderungen an technische wie nichttechnische Systeme; Produkte; Dienstleistungen oder Prozesse; die zur Erreichung von vordefinierten Mindestzielen erforderlich sind. 
+169;Minimalanforderung;Als Mindestanforderungen bezeichnet man allgemein die Anforderungen an technische wie nichttechnische Systeme, Produkte, Dienstleistungen oder Prozesse, die zur Erreichung von vordefinierten Mindestzielen erforderlich sind. 
 170;csv-Datei;Das Dateiformat CSV steht fuer englisch Comma-separated values und beschreibt den Aufbau einer Textdatei zur Speicherung oder zum Austausch einfach strukturierter Daten.
 171;Kreditor;Ein Kreditor ist im deutschen Rechnungswesen der Glaeubiger von Forderungen aus Lieferungen und Leistungen. 
 172;Debitor;Schuldner der Waren oder Leistungen auf Kredit bezogen hat. 
@@ -176,18 +175,18 @@ Nummer;Nomen;Bedeutung
 174;Stellvertretender Dispatcher;leitender Angestellter zur Ueberwachung (industrieller) Produktionsablaeufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfuegung stehenden Mittel und gewaehrleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
 175;User;Des Benutzer eines Systems
 176;Anbindung;die Integration von etwas in ein System. 
-177;Active Directory;Active Directory ermoeglicht es, ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer; Gruppen; Computer; Dienste; Server; Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren; bereitstellen und ueberwachen. 
+177;Active Directory;Active Directory ermoeglicht es, ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer, Gruppen, Computer, Dienste, Server, Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren, bereitstellen und ueberwachen. 
 178;Gruppe;Repraesentation einer Abteilung im Active Directory
 179;Gruppenname;Die Bezeichnung einer Gruppe
 180;Attribut;Merkmal eines Objekts
-181;Abgleich;Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht; so dass jedes System die aktualisierten Daten enthaelt. 
+181;Abgleich;Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht, so dass jedes System die aktualisierten Daten enthaelt. 
 182;Rechtevergabe;Einem Benutzer werden Rechte zugeteilt
 183;Sperren;Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
 184;IT-Vertrag;Ein Vertragstyp. Moegliche Untertypen: Software, Hardware, …
 185;Passwort;Dient dem System zur Authentifizierung eines Benutzers.
 186;Authentifizierung;Sicherstellung der Identitaet eines Benutzers.
 187;Erinnerungsmail;Nachricht an die E-Mail-Adresse eines Benutzers.
-188;Mailadresse;(klar; keine spezielle Verwendung >>> weglassen)
+188;Mailadresse;(klar, keine spezielle Verwendung >>> weglassen)
 189;Originaldokument;Physisches Dokument, welches keine Kopie ist.
 190;Bedarf;(keine spezielle Bedeutung, Begriffsverwendung allgemein >>> weglassen)
 191;Aufenthaltsort;Angabe ueber einen physischen Ort bzgl. eines Dokuments.
