@@ -1,276 +1,276 @@
-Nummer,Nomen,Bedeutung
-1,Standort,Physikalischer Ort an dem ein Teil des Unternehmens seinen Sitz hat
-2,Vertrag,Schriftliche und bindende Abmachung zwischen zwei oder mehr beteiligten Parteien. Koordiniert und regelt deren Verhalten (in bestimmten Bereichen/Themen)
-3,Betroffene,Personen oder Gruppen die von einem Vertrag beeinflusst werden
-4,Vertragsinhalte,Informationen die ein Vertrag beinhaltet
-5,Vertragsaenderung,Anpassungen die vor oder nach dem Abschluss des Vertrages getaetigt werden
-6,Uebersichten,Listen in digitaler oder analoger Form die einen Ueberblick ueber laufende Vertraege geben
-7,Zugriff,Lesende oder schreibende Handlung einer oder mehrerer Personen die sich auf vorhandene Daten beziehen
-8,Auswertungen,Sammlung von Informationen ueber mehr als einen Vertrag
-9,Terminueberwachung,Sicherstellung dass im Vertrag festgelegte Termine eingehalten werden
-10,Fristueberwachung,Sicherstellung dass im Vertrag festgelegte Fristen eingehalten werden (evtl. doch beide (9+10) zusammenfassen?)
-11,Mandantenfaehigkeit,Moeglichkeit mehrere Mandanten (Kunden/Auftraggeber) bedienen zu koennen
-12,Workflowengine,Softwareanwendung mit Benachrichtigungsfunktion und Eskalationsmanagement die Geschaeftsprozesse verwaltet - Typischerweise mit Datenbankanbindung - Bestandteil von Vertragsverwaltungssoftware
-13,Benachrichtigungswesen,Moeglichkeit betroffene Personen und Gruppen automatisch zu informieren/benachrichtigen - Bestandteil von Vertragsverwaltungssoftware
-14,Vertragsverwaltungssoftware,Computerprogramm dass zur Verwaltung von Vertraegen verwendet wird
-15,Dokumentenverwaltung,Digitale Platform auf der man Dokumente verwalten kann - Bestandteil von Vertragsverwaltungssoftware
-16,Organisationseinheit,Einteilung von Mandanten mit bestimmten Aufgabenbereichen in Gruppen
-17,Besitzer,Verantwortlicher fuer einen Vertrag - gehoert der Organisationseinheit an an die der Vertrag gebunden ist
-18,Mandantenuebergreifend,Zustand von Organisationseinheiten deren Mandanten ueber die Organisationseinheit hinaus taetig sind
-19,Vorstand,Leitungsorgan eines Unternehmens - mandantenuebergreifende Organisationseinheit
-20,Servicecenter,Erbringen Dienstleistungen fuer andere Unternehmensbereiche - mandantenuebergreifende Organisationseinheit
-21,IT,Informationstechnologie-Abteilung - mandantenuebergreifende Organisationseinheit
-22,Kosten,Zu zahlende Geldmittel die durch einen Vertrag anfallen
-23,Kostenstelle,Ort der Kostenentstehung und Leistungserbringung
-24,Vertragsart,Untergliederung von Vertraegen
-25,Supportvertrag,Vertrag der Supportangelegenheiten regelt - Vertragsart
-26,Mietvertrag,Vertrag der eine Miete regelt - Vertragsart
-27,Kooperationsvertrag,Vertrag der die Kooperation verschiedener Einheiten (z.B. Unternehmen) regelt - Vertragsart
-28,Untergliederung,(weg lassen?)
-29,Kostenart,Zuordnung von Vertraegen hinsichtlich ihrer Kosten
-30,EDV-Vertrag,Vertrag welcher der Elektronischen Datenverarbeitung zugeordnet wird - Kostenart
-31,Telekommunikationsvertrag,Vertrag der in den Bereich der Telekommunikation faellt - Kostenart
-32,Ueberwachung,Sicherstellung dass alle Bereiche eines Systems ordnungsgemaes arbeiten - durch Workflow-Engine realisiert
-33,Benachrichtigungsfunktion,Automatisierte digitale Informationsuebermittlung um Beteiligte eines Vertrages ueber Neuigkeiten auf dem Laufenden zu halten - Bestandteil einer Workflow-Engine
-34,Eskalationsmanagement,Automatische digitales Errinnerungssystem fuer Koordinator und Vertragsinhaber - Bestandteil einer Workflow-Engine
-35,Benachrichtigung,Informationsuebermittlung - meist ueber digitalen Weg - die Anwender ueber Neuigkeiten informiert
-36,automatisch erstellte E-Mail,E-Mail die durch die Workflow-Engine auf Basis von vordefinierten Bausteinen erstellt wird um Benutzer zu informieren
-37,Dispatcher-Funktion,-> siehe Dispatcher
-38,Mitarbeiterzuordnung,?
-39,Eskalationsstufen,?
-40,Personen,(weg lassen?)
-41,Aufgabenausuebung,(weg lassen?)
-42,Deligiert,Vergabe von Aufgaben(-bereichen) an Personen
-43,Aufgaben,Dinge die Personen auf Grund ihres Berufes und den damit verbundenen Pflichten zu erledigen haben
-44,Berechtigungen,Das Recht fuer bestimmte Personen besondere Aufgaben zu erledigen
-45,Technischer Betrieb,Beispiel fuer Organisationseinheit mit Aufgaben durch die sie von Aenderungen (z.B. hinsichtlich Eskalationsstufen) betroffen ist
-46,Mandant,Kunde bzw. Auftraggeber eines Vertrages bzw. vom Vertrag betroffene Personen
-47,Uebersicht,Ausgabe der Aufgaben zu Vertraegen
-48,Rahmenvertraege,Besteht aus mehreren Einzelvertraegen
-49,Einzelvertraege,Ein Vertrag der mit anderen zu einem Rahmenvertrag gebuendelt werden kann
-50,Berichtswesen,
-51,Exportmoeglichkeit,Daten koennen aus dem Programm fuer andere Nutzung zur Verfuegung gestellt werden(Welchen Daten in welcher Form)
-52,Dokumente,Kann einen Vertrag oder anderen Schriftverkehr darstellen
-53,Fundortverwaltung,
-54,Originale,(Zu allgemein -> weg lassen)
-55,Vertragsabschluss,(Zu allgemein)
-56,Anlage,(es ist das anlegen eines Vertrags gemeint-> weg lassen zu allgemein)
-57,Vertragsinhaber,Haelt den Vertrag zuerst in den haenden und bearbeitet diesen
-58,Bearbeitungsstatus,Gibt an ob alle Pflichtfelder bearbeitet wurden
-59,Recht,(zu allgemein -> weg lassen)
-60,Pflichtfelder,Markiert Angaben in einem Formular die ausgefuellt werden muessen
-61,Vertragsmanagement,Ist eine Vertragsverwaltungssoftware
-62,Zuordnung,Einteilung eines Koordinators fuer einen Vertrag
-63,Vertragsname,Name den der Vertrag erhalten soll
-64,Koordinator,Der zustsaendige Bereich(Regionalleiter DLZ-Leiter...)
-65,Status,Gibt an ob ein Vertrag vollstaendig ist
-66,Liste,Ausgabe unvollstaendiger Vertraege
-67,Aufgabe,Bei Vertragsanlage Dispatcher anlegen
-68,Vertragsanlage,(Es ist das Anlegen eines Vetrags gemeint -> zu allgemein)
-69,Mailbenachrichtigung,Mitteilung an den Koordinator das ein Vertrag zugeordnet wurde
-70,Anmelden,(Zu allgemein -> weg lassen)
-71,System,Stellt das Vetragsmanagement da
-72,Detailansicht,Stellt genaue Angaben zum Vertrag da
-73,Dispatcher,Pflegt Vertragsdaten bestimmt Koordinatoren und ueberwacht Laufzeiten sowie Fristen
-74,Link,Moeglichkeit aus Email schnell Details eines Vertrags zu sehen
-75,Vollstaendigkeit,Alle Pflichtfelder sind ausgefuellt und Kopie des Vertrags hochgeladen
-76,Speichern,Sicherung der Eingaben
-77,Bedingung,Voraussetzung zum Hochladen eines Dokuments
-78,Kopie,(Zu allgemein -> weg lassen)
-79,Hochladen,Dokument in der Datenbank speichern
-80,Dokument,(war schon position 52 -> weg lassen)
-81,Programm,Das Vertragsmanagement
-82,Eingabe,Benoetigte Daten fuer den Vertrag
-83,Zeitpunkt,(zu allgemein -> weg lassen)
-84,Aufgabenfenster,Liste der offenen Aufgaben
-85,Inhaber,Ist Vertragsinhaber
-86,Sonderfall,Abweichung vom Normalfall falls zentrale Stelle im Vertrag zwischengeschaltet wird
-87,Ablauf,(zu allgemein -> weg lassen)
-88,Absaetze,(bezieht sich auf teil des Fachkonzepts -> weg lassen)
-89,Stelle,(was ist zentrale Stelle?)
-90,Software,Das Vertragsmanagementsystem
-91,Zuweisung,Einem Vertrag wird ein Koordinator zugeteilt
-92,Moeglichkeit,(zu allgemein -> weg lassen)
-93,Flag,
-94,Standardauswertung,
-95,Leserechte,
-96,Stammdaten,
-97,Administrator,
-98,Benutzer,
-99,Rollen,
-100,Rechte,
-101,Parameter,
-102,Suchkriterien,
-103,Ansicht,
-104,Bearbeitung,
-105,Abstaende,
-106,Task,
-107,Erinnerungstermin,
-108,Eskalationstermin,
-109,Zustaendiger,
-110,Uebersicht,
-111,Gleichzeitigkeit,
-112,Auswahl,
-113,Aenderung,
-114,Ursache,
-115,Pruefung,
-116,Erzeugung,
-117,Kennzeichnung,
-118,Zur verfuegung stellen,
-119,Unterlagen,
-120,Bezeichnun,
-121,Freitextfeld,
-122,Pflicht,
-123,Kategorie,
-124,Auswahlfeld,
-125,Kuendigung,
-126,Schriftverker,
-127,Bemerkung,
-128,Freitext,
-129,Optionalitaet,
-130,Finanzkontrolling,
-131,Terminkontrolling,
-132,Vertragskontrolling,
-133,Auswertungsexplorer,
-134,Ergebnisse,
-135,Tabellenformat,
-136,Endauslieferung,
-137,Export,
-138,Stammdatenverwaltung,
-139,Maske,In einer EDV-Anlage gespeicherte Daten werden mit Hilfe von Masken auf einem Datensichtgeraet dargestellt. Ebenso werden neue Daten fuer die Speicherung in einer Maske erfasst.
-140,Loeschung,Entfernen von Daten aus der Datenhaltung
-141,Organigramm,ein Schaubild das in Form einer Pfeilgrafik Strukturen innerhalb eines Unternehmens zeigt.
-142,Unternehmen,Eine Firma. In diesem Fall die Bezirkskliniken Schwaben.
-143,Unternehmensleitung,"Ein Mandant. Die Aufgabe der Unternehmensfuehrung besteht in finalen Entscheidungen ueber betriebliche Ablaeufe, Unterzeichnung von Vertraegen, die das ganze Unternehmen betreffen, und in der Bekleidung einer repraesentativen Rolle."
-144,Bezirkskrankenhaus,Ein Mandant.
-145,Buchhaltungssicht,Wie ein Sachverhalt vom Standpunkt der Buchhaltung gesehen wird.
-146,Buchungskreise,Die Art und Weise wie Mandanten in der Buchhaltung eingeteilt werden.
-147,Wohnen und Foerdern,Ein Mandant.
-148,Unterabteilung,kleinere Abteilung in einer groesseren 
-149,Abteilungsleitung,"Die Abteilungsleitung sind die Fuehrungskraefte einer Organisationseinheit, der Abteilung."
-150,Stellvertreter,jmd. Der einen anderen vertritt und fuer eine gewisse Zeit seine Aufgaben uebernimmt. 
-151,Liegenschaften,Ein Grundstueck in der Rechts- und Wirtschaftssprache
-152,Leistungsempfaenger,jmd. der Aufwenungen erhaelt
-153,Leistungsbringer,jmd. der Aufwenungen erbringt
-154,Vertragstyp,Kategorie in die sich ein Vertrag einordnen laesst. Kann auch Unterkategorien haben
-155,Vertragsart,Kategorie in die sich ein Vertrag einordnen laesst.
-156,Hardware,Ein Vertragstyp. Die Geraete die zu einer Datenverarbeitungsanlage gehoeren. 
-157,Merkmal,ein charakteristisches Kennzeichen das typisch fuer jmdn. oder etwas ist. 
-158,Kauf,Vertragsart
-,Leasing,Vertragsart
-159,Miete,"Vertragsart. Der Geldbetrag den man dem Eigentuemer einer Wohnung monatlich bezahlen muss, damit man in seiner Wohnung wohnen darf. "
-160,Wartung,Vertragsart
-161,Dienstleistung,Vertragsart
-162,Neuanlage,Hinzufuegen von Daten in die Datenhaltung
-163,Import ,Hinzufuegen von Daten aus einem anderen System in die Datenhaltung
-164,Export,Hinzufuegen von Daten in ein anderes System aus der Datenhaltung
-165,Importfunktion,
-166,Exportfunktion,
-167,Kostenstellenplan,Der Kostenstellenplan ist eine systematisch geordnete Zusammenstellung aller Kostenstellen eines Unternehmens 
-168,Eingabemaske,In einer EDV-Anlage werden neue Daten fuer die Speicherung in einer Maske erfasst.
-169,Minimalanforderung,"Als Mindestanforderungen bezeichnet man allgemein die Anforderungen an technische wie nichttechnische Systeme, Produkte, Dienstleistungen oder Prozesse, die zur Erreichung von vordefinierten Mindestzielen erforderlich sind. "
-170,csv-Datei,Das Dateiformat CSV steht fuer englisch Comma-separated values und beschreibt den Aufbau einer Textdatei zur Speicherung oder zum Austausch einfach strukturierter Daten.
-171,Kreditor,Ein Kreditor ist im deutschen Rechnungswesen der Glaeubiger von Forderungen aus Lieferungen und Leistungen. 
-172,Debitor,Schuldner der Waren oder Leistungen auf Kredit bezogen hat. 
-173,Formular,Vordruck mit Feldern in die bestimmte Informationen eingetragen werden sollen. 
-174,Stellvertretender Dispatcher,leitender Angestellter zur Ueberwachung (industrieller) Produktionsablaeufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfuegung stehenden Mittel und gewaehrleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
-175,User,Des Benutzer eines Systems
-176,Anbindung,die Integration von etwas in ein System. 
-177,Active Directory,"Active Directory ermoeglicht es, ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer, Gruppen, Computer, Dienste, Server, Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren, bereitstellen und ueberwachen. "
-178,Gruppe,Repraesentation einer Abteilung im Active Directory
-179,Gruppenname,Die Bezeichnung einer Gruppe
-180,Attribut,Merkmal eines Objekts
-181,Abgleich,"Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht, so dass jedes System die aktualisierten Daten enthaelt. "
-182,Rechtevergabe,Einem Benutzer werden Rechte zugeteilt
-183,Sperren,Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
-184,IT-Vertrag,"Ein Vertragstyp. Moegliche Untertypen: Software; Hardware; …"
-185,Passwort,Dient dem System zur Authentifizierung eines Benutzers.
-186,Authentifizierung,Sicherstellung der Identitaet eines Benutzers.
-187,Erinnerungsmail,Nachricht an die E-Mail-Adresse eines Benutzers.
-188,Mailadresse,"(klar, keine spezielle Verwendung >>> weglassen)"
-189,Originaldokument,"Physisches Dokument, welches keine Kopie ist."
-190,Bedarf,"(keine spezielle Bedeutung, Begriffsverwendung allgemein >>> weglassen)"
-191,Aufenthaltsort,Angabe ueber einen physischen Ort bzgl. eines Dokuments.
-192,Zustaendigkeitsbereich,Enthaelt Zustaendigkeiten bzgl. Vertraegen.
-193,Vertragsdaten,Inhalte die einen Vertrag spezifizieren.
-194,Regionalleiter,Verantwortlicher ueber einen Zustaendigkeitsbereich.
-195,SC-Leiter,Verantwortlicher ueber einen Zustaendigkeitsbereich.
-196,Vorstand,Verantwortlicher ueber einen Zustaendigkeitsbereich.
-197,DLZ-Leiter,Verantwortlicher ueber einen Zustaendigkeitsbereich.
-198,Vertretung,Vertritt einen Dispatcher.
-199,Laufzeitueberwachung,Informationen ueber die Laufzeiten von Vertraegen koennen durch einen Dispatcher geprueft werden.
-200,Fristenueberwachung,Informationen ueber die Fristen von Vertraegen koennen durch einen Dispatcher geprueft werden.
-201,Aktualitaet,Vertragsdaten sind mit den neuesten Aenderungen synchronisiert.
-202,Aktualisierung,"Vorgang, bei dem Vertragsdaten mit den neuesten Aenderungen synchronisiert werden."
-203,Nutzerrechte,"Definieren die Moeglichkeiten eines Benutzers, durch Vergabe von Rechten im System einzugreifen. Diese koennen erweitert, aber auch eingeschraenkt werden."
-204,Administratorrechte,Dienen der Pflege der Stammdaten. Es gibt allerdings keine Berechtigung zur Anzeige oder Bearbeitung von Vertraegen. Die Sperrung eines Benutzers fuer das Vertragsmanagement ist moeglich.
-205,Recht,(information mehr oder weniger in nutzerrechte enthalten)
-206,Anzeige,Rechnergestuetzte Darstellung eines Vertrags in einem softwareergonomischem Kontext.
-207,Bearbeitung,Interaktive Aenderung der Vertragsdaten.
-208,Rollenkonzept,"Das normale Rollenkonzept beschraenkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur, zu der der zugehoerige Benutzer gehoert. Darueber hinaus soll es die Moeglichkeit geben ueber dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte fuer alle Mandanten oder Organisationsstrukturen zu geben. Ermoeglicht z.B. mandantenuebergreifende Auswertungen."
-209,Wirkungsbereich,Spezifiziertes Umfeld im System in welchem ein Benutzer  agieren kann. Im normalen Rollenkonzept auf den Mandant oder die Organisationsstruktur des jeweiligen Benutzers beschraenkt.
-210,Organisationsstruktur,
-211,Anwender,"(kann man weglassen, da Wortbedeutung User)"
-212,Interne Vertragsnummer,Wird automatisch erzeugt und dient dem System intern zur Identifikation eines Vertrags.
-213,Index,Interne Vertragsnummer als Index des zugehoerigen Vertrags.
-214,Weise,(weglassen)
-215,Externe Vertragsnummer,Wurde vom Vertragspartner festgelegt.
-216,Vertragstyp,Pflichtfeld: Auswahlfeld -> siehe Stammdaten
-217,Vertragsart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten
-218,Unterart,Pflichtfeld: Auswahlfeld -> siehe Stammdaten. Die Auswahl ist abhaengig von der gewaehlten Vertragsart.
-219,Zugeordnete Abteilung,Abteilung fuer die ein Vertrag eine verbindliche Auswirkung hat.
-220,Ueberwachtende Abteilung,"Ein Status einer Abteilung, der dadurch festgelegt wurde, dass deren Dispatcher die Aufgabe hat, einen Vertrag zu ueberwachen."
-221,Nettokosten,"Effektive (bzw. tatsaechlich eingetretene) Nettokosten, die im Feld Betrag als Kosten eingegeben werden."
-222,Kostenanalyse,Um die Aussagekraft dieser zu verbessern werden Flags eingesetzt.
-223,Aussagekraft,"(weglassen,zu allgemein)"
-224,Vorauskasse,"Flag, das bei Vertraegen gesetzt wird, die durch eine Einmalzahlung langfristig gelten."
-225,Einmalzahlung,"(Bedeutung eher allgemein, weglassen)"
-226,Filterung,"Mechanismus, welcher der gezielten Auflistung von Vertraegen dient, die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
-227,Folgejahre,(zu allgemein weglassen)
-228,Bezahlung,"(zu allgemein, weglassen)"
-229,Variabel,"Flag, das bei Vertraegen gesetzt wird, die verbrauchsabhaengig variable Kosten verursachen."
-230;Anpassung;Flag die representiert ob Preisveränderungen bei einem Vertrag möglich sind
+Nummer;Nomen;Bedeutung
+1;Standort;Physikalischer Ort an dem ein Teil des Unternehmens seinen Sitz hat
+2;Vertrag;Schriftliche und bindende Abmachung zwischen zwei oder mehr beteiligten Parteien. Koordiniert und regelt deren Verhalten (in bestimmten Bereichen/Themen)
+3;Betroffene;Personen oder Gruppen die von einem Vertrag beeinflusst werden
+4;Vertragsinhalte;Informationen die ein Vertrag beinhaltet
+5;Vertragsaenderung;Anpassungen die vor oder nach dem Abschluss des Vertrages getaetigt werden
+6;Uebersichten;Listen in digitaler oder analoger Form die einen Ueberblick ueber laufende Vertraege geben
+7;Zugriff;Lesende oder schreibende Handlung einer oder mehrerer Personen die sich auf vorhandene Daten beziehen
+8;Auswertungen;Sammlung von Informationen ueber mehr als einen Vertrag
+9;Terminueberwachung;Sicherstellung dass im Vertrag festgelegte Termine eingehalten werden
+10;Fristueberwachung;Sicherstellung dass im Vertrag festgelegte Fristen eingehalten werden (evtl. doch beide (9+10) zusammenfassen?)
+11;Mandantenfaehigkeit;Moeglichkeit mehrere Mandanten (Kunden/Auftraggeber) bedienen zu koennen
+12;Workflowengine;Softwareanwendung mit Benachrichtigungsfunktion und Eskalationsmanagement die Geschaeftsprozesse verwaltet - Typischerweise mit Datenbankanbindung - Bestandteil von Vertragsverwaltungssoftware
+13;Benachrichtigungswesen;Moeglichkeit betroffene Personen und Gruppen automatisch zu informieren/benachrichtigen - Bestandteil von Vertragsverwaltungssoftware
+14;Vertragsverwaltungssoftware;Computerprogramm dass zur Verwaltung von Vertraegen verwendet wird
+15;Dokumentenverwaltung;Digitale Platform auf der man Dokumente verwalten kann - Bestandteil von Vertragsverwaltungssoftware
+16;Organisationseinheit;Einteilung von Mandanten mit bestimmten Aufgabenbereichen in Gruppen
+17;Besitzer;Verantwortlicher fuer einen Vertrag - gehoert der Organisationseinheit an an die der Vertrag gebunden ist
+18;Mandantenuebergreifend;Zustand von Organisationseinheiten deren Mandanten ueber die Organisationseinheit hinaus taetig sind
+19;Vorstand;Leitungsorgan eines Unternehmens - mandantenuebergreifende Organisationseinheit
+20;Servicecenter;Erbringen Dienstleistungen fuer andere Unternehmensbereiche - mandantenuebergreifende Organisationseinheit
+21;IT;Informationstechnologie-Abteilung - mandantenuebergreifende Organisationseinheit
+22;Kosten;Zu zahlende Geldmittel die durch einen Vertrag anfallen
+23;Kostenstelle;Ort der Kostenentstehung und Leistungserbringung
+24;Vertragsart;Untergliederung von Vertraegen
+25;Supportvertrag;Vertrag der Supportangelegenheiten regelt - Vertragsart
+26;Mietvertrag;Vertrag der eine Miete regelt - Vertragsart
+27;Kooperationsvertrag;Vertrag der die Kooperation verschiedener Einheiten (z.B. Unternehmen) regelt - Vertragsart
+28;Untergliederung;(weg lassen?)
+29;Kostenart;Zuordnung von Vertraegen hinsichtlich ihrer Kosten
+30;EDV-Vertrag;Vertrag welcher der Elektronischen Datenverarbeitung zugeordnet wird - Kostenart
+31;Telekommunikationsvertrag;Vertrag der in den Bereich der Telekommunikation faellt - Kostenart
+32;Ueberwachung;Sicherstellung dass alle Bereiche eines Systems ordnungsgemaes arbeiten - durch Workflow-Engine realisiert
+33;Benachrichtigungsfunktion;Automatisierte digitale Informationsuebermittlung um Beteiligte eines Vertrages ueber Neuigkeiten auf dem Laufenden zu halten - Bestandteil einer Workflow-Engine
+34;Eskalationsmanagement;Automatische digitales Errinnerungssystem fuer Koordinator und Vertragsinhaber - Bestandteil einer Workflow-Engine
+35;Benachrichtigung;Informationsuebermittlung - meist ueber digitalen Weg - die Anwender ueber Neuigkeiten informiert
+36;automatisch erstellte E-Mail;E-Mail die durch die Workflow-Engine auf Basis von vordefinierten Bausteinen erstellt wird um Benutzer zu informieren
+37;Dispatcher-Funktion;-> siehe Dispatcher
+38;Mitarbeiterzuordnung;?
+39;Eskalationsstufen;?
+40;Personen;(weg lassen?)
+41;Aufgabenausuebung;(weg lassen?)
+42;Deligiert;Vergabe von Aufgaben(-bereichen) an Personen
+43;Aufgaben;Dinge die Personen auf Grund ihres Berufes und den damit verbundenen Pflichten zu erledigen haben
+44;Berechtigungen;Das Recht fuer bestimmte Personen besondere Aufgaben zu erledigen
+45;Technischer Betrieb;Beispiel fuer Organisationseinheit mit Aufgaben durch die sie von Aenderungen (z.B. hinsichtlich Eskalationsstufen) betroffen ist
+46;Mandant;Kunde bzw. Auftraggeber eines Vertrages bzw. vom Vertrag betroffene Personen
+47;Uebersicht;Ausgabe der Aufgaben zu Vertraegen
+48;Rahmenvertraege;Besteht aus mehreren Einzelvertraegen
+49;Einzelvertraege;Ein Vertrag der mit anderen zu einem Rahmenvertrag gebuendelt werden kann
+50;Berichtswesen;
+51;Exportmoeglichkeit;Daten koennen aus dem Programm fuer andere Nutzung zur Verfuegung gestellt werden(Welchen Daten in welcher Form)
+52;Dokumente;Kann einen Vertrag oder anderen Schriftverkehr darstellen
+53;Fundortverwaltung;
+54;Originale;(Zu allgemein -> weg lassen)
+55;Vertragsabschluss;(Zu allgemein)
+56;Anlage;(es ist das anlegen eines Vertrags gemeint-> weg lassen zu allgemein)
+57;Vertragsinhaber;Haelt den Vertrag zuerst in den haenden und bearbeitet diesen
+58;Bearbeitungsstatus;Gibt an ob alle Pflichtfelder bearbeitet wurden
+59;Recht;(zu allgemein -> weg lassen)
+60;Pflichtfelder;Markiert Angaben in einem Formular die ausgefuellt werden muessen
+61;Vertragsmanagement;Ist eine Vertragsverwaltungssoftware
+62;Zuordnung;Einteilung eines Koordinators fuer einen Vertrag
+63;Vertragsname;Name den der Vertrag erhalten soll
+64;Koordinator;Der zustsaendige Bereich(Regionalleiter DLZ-Leiter...)
+65;Status;Gibt an ob ein Vertrag vollstaendig ist
+66;Liste;Ausgabe unvollstaendiger Vertraege
+67;Aufgabe;Bei Vertragsanlage Dispatcher anlegen
+68;Vertragsanlage;(Es ist das Anlegen eines Vetrags gemeint -> zu allgemein)
+69;Mailbenachrichtigung;Mitteilung an den Koordinator das ein Vertrag zugeordnet wurde
+70;Anmelden;(Zu allgemein -> weg lassen)
+71;System;Stellt das Vetragsmanagement da
+72;Detailansicht;Stellt genaue Angaben zum Vertrag da
+73;Dispatcher;Pflegt Vertragsdaten bestimmt Koordinatoren und ueberwacht Laufzeiten sowie Fristen
+74;Link;Moeglichkeit aus Email schnell Details eines Vertrags zu sehen
+75;Vollstaendigkeit;Alle Pflichtfelder sind ausgefuellt und Kopie des Vertrags hochgeladen
+76;Speichern;Sicherung der Eingaben
+77;Bedingung;Voraussetzung zum Hochladen eines Dokuments
+78;Kopie;(Zu allgemein -> weg lassen)
+79;Hochladen;Dokument in der Datenbank speichern
+80;Dokument;(war schon position 52 -> weg lassen)
+81;Programm;Das Vertragsmanagement
+82;Eingabe;Benoetigte Daten fuer den Vertrag
+83;Zeitpunkt;(zu allgemein -> weg lassen)
+84;Aufgabenfenster;Liste der offenen Aufgaben
+85;Inhaber;Ist Vertragsinhaber
+86;Sonderfall;Abweichung vom Normalfall falls zentrale Stelle im Vertrag zwischengeschaltet wird
+87;Ablauf;(zu allgemein -> weg lassen)
+88;Absaetze;(bezieht sich auf teil des Fachkonzepts -> weg lassen)
+89;Stelle;(was ist zentrale Stelle?)
+90;Software;Das Vertragsmanagementsystem
+91;Zuweisung;Einem Vertrag wird ein Koordinator zugeteilt
+92;Moeglichkeit;(zu allgemein -> weg lassen)
+93;Flag;
+94;Standardauswertung;
+95;Leserechte;
+96;Stammdaten;
+97;Administrator;
+98;Benutzer;
+99;Rollen;
+100;Rechte;
+101;Parameter;
+102;Suchkriterien;
+103;Ansicht;
+104;Bearbeitung;
+105;Abstaende;
+106;Task;
+107;Erinnerungstermin;
+108;Eskalationstermin;
+109;Zustaendiger;
+110;Uebersicht;
+111;Gleichzeitigkeit;
+112;Auswahl;
+113;Aenderung;
+114;Ursache;
+115;Pruefung;
+116;Erzeugung;
+117;Kennzeichnung;
+118;Zur verfuegung stellen;
+119;Unterlagen;
+120;Bezeichnun;
+121;Freitextfeld;
+122;Pflicht;
+123;Kategorie;
+124;Auswahlfeld;
+125;Kuendigung;
+126;Schriftverker;
+127;Bemerkung;
+128;Freitext;
+129;Optionalitaet;
+130;Finanzkontrolling;
+131;Terminkontrolling;
+132;Vertragskontrolling;
+133;Auswertungsexplorer;
+134;Ergebnisse;
+135;Tabellenformat;
+136;Endauslieferung;
+137;Export;
+138;Stammdatenverwaltung;
+139;Maske;In einer EDV-Anlage gespeicherte Daten werden mit Hilfe von Masken auf einem Datensichtgeraet dargestellt. Ebenso werden neue Daten fuer die Speicherung in einer Maske erfasst.
+140;Loeschung;Entfernen von Daten aus der Datenhaltung
+141;Organigramm;ein Schaubild das in Form einer Pfeilgrafik Strukturen innerhalb eines Unternehmens zeigt.
+142;Unternehmen;Eine Firma. In diesem Fall die Bezirkskliniken Schwaben.
+143;Unternehmensleitung;"Ein Mandant. Die Aufgabe der Unternehmensfuehrung besteht in finalen Entscheidungen ueber betriebliche Ablaeufe; Unterzeichnung von Vertraegen; die das ganze Unternehmen betreffen; und in der Bekleidung einer repraesentativen Rolle."
+144;Bezirkskrankenhaus;Ein Mandant.
+145;Buchhaltungssicht;Wie ein Sachverhalt vom Standpunkt der Buchhaltung gesehen wird.
+146;Buchungskreise;Die Art und Weise wie Mandanten in der Buchhaltung eingeteilt werden.
+147;Wohnen und Foerdern;Ein Mandant.
+148;Unterabteilung;kleinere Abteilung in einer groesseren 
+149;Abteilungsleitung;"Die Abteilungsleitung sind die Fuehrungskraefte einer Organisationseinheit; der Abteilung."
+150;Stellvertreter;jmd. Der einen anderen vertritt und fuer eine gewisse Zeit seine Aufgaben uebernimmt. 
+151;Liegenschaften;Ein Grundstueck in der Rechts- und Wirtschaftssprache
+152;Leistungsempfaenger;jmd. der Aufwenungen erhaelt
+153;Leistungsbringer;jmd. der Aufwenungen erbringt
+154;Vertragstyp;Kategorie in die sich ein Vertrag einordnen laesst. Kann auch Unterkategorien haben
+155;Vertragsart;Kategorie in die sich ein Vertrag einordnen laesst.
+156;Hardware;Ein Vertragstyp. Die Geraete die zu einer Datenverarbeitungsanlage gehoeren. 
+157;Merkmal;ein charakteristisches Kennzeichen das typisch fuer jmdn. oder etwas ist. 
+158;Kauf;Vertragsart
+159;Miete;"Vertragsart. Der Geldbetrag den man dem Eigentuemer einer Wohnung monatlich bezahlen muss; damit man in seiner Wohnung wohnen darf. "
+160;Wartung;Vertragsart
+161;Dienstleistung;Vertragsart
+162;Neuanlage;Hinzufuegen von Daten in die Datenhaltung
+163;Import;Hinzufuegen von Daten aus einem anderen System in die Datenhaltung
+164;Export;Hinzufuegen von Daten in ein anderes System aus der Datenhaltung
+165;Importfunktion;
+166;Exportfunktion;
+167;Kostenstellenplan;Der Kostenstellenplan ist eine systematisch geordnete Zusammenstellung aller Kostenstellen eines Unternehmens 
+168;Eingabemaske;In einer EDV-Anlage werden neue Daten fuer die Speicherung in einer Maske erfasst.
+169;Minimalanforderung;"Als Mindestanforderungen bezeichnet man allgemein die Anforderungen an technische wie nichttechnische Systeme; Produkte; Dienstleistungen oder Prozesse; die zur Erreichung von vordefinierten Mindestzielen erforderlich sind. "
+170;csv-Datei;Das Dateiformat CSV steht fuer englisch Comma-separated values und beschreibt den Aufbau einer Textdatei zur Speicherung oder zum Austausch einfach strukturierter Daten.
+171;Kreditor;Ein Kreditor ist im deutschen Rechnungswesen der Glaeubiger von Forderungen aus Lieferungen und Leistungen. 
+172;Debitor;Schuldner der Waren oder Leistungen auf Kredit bezogen hat. 
+173;Formular;Vordruck mit Feldern in die bestimmte Informationen eingetragen werden sollen. 
+174;Stellvertretender Dispatcher;leitender Angestellter zur Ueberwachung (industrieller) Produktionsablaeufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfuegung stehenden Mittel und gewaehrleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
+175;User;Des Benutzer eines Systems
+176;Anbindung;die Integration von etwas in ein System. 
+177;Active Directory;"Active Directory ermoeglicht es; ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer; Gruppen; Computer; Dienste; Server; Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren; bereitstellen und ueberwachen. "
+178;Gruppe;Repraesentation einer Abteilung im Active Directory
+179;Gruppenname;Die Bezeichnung einer Gruppe
+180;Attribut;Merkmal eines Objekts
+181;Abgleich;"Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht; so dass jedes System die aktualisierten Daten enthaelt. "
+182;Rechtevergabe;Einem Benutzer werden Rechte zugeteilt
+183;Sperren;Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
+184;IT-Vertrag;"Ein Vertragstyp. Moegliche Untertypen: Software; Hardware; …"
+185;Passwort;Dient dem System zur Authentifizierung eines Benutzers.
+186;Authentifizierung;Sicherstellung der Identitaet eines Benutzers.
+187;Erinnerungsmail;Nachricht an die E-Mail-Adresse eines Benutzers.
+188;Mailadresse;"(klar; keine spezielle Verwendung >>> weglassen)"
+189;Originaldokument;"Physisches Dokument; welches keine Kopie ist."
+190;Bedarf;"(keine spezielle Bedeutung; Begriffsverwendung allgemein >>> weglassen)"
+191;Aufenthaltsort;Angabe ueber einen physischen Ort bzgl. eines Dokuments.
+192;Zustaendigkeitsbereich;Enthaelt Zustaendigkeiten bzgl. Vertraegen.
+193;Vertragsdaten;Inhalte die einen Vertrag spezifizieren.
+194;Regionalleiter;Verantwortlicher ueber einen Zustaendigkeitsbereich.
+195;SC-Leiter;Verantwortlicher ueber einen Zustaendigkeitsbereich.
+196;Vorstand;Verantwortlicher ueber einen Zustaendigkeitsbereich.
+197;DLZ-Leiter;Verantwortlicher ueber einen Zustaendigkeitsbereich.
+198;Vertretung;Vertritt einen Dispatcher.
+199;Laufzeitueberwachung;Informationen ueber die Laufzeiten von Vertraegen koennen durch einen Dispatcher geprueft werden.
+200;Fristenueberwachung;Informationen ueber die Fristen von Vertraegen koennen durch einen Dispatcher geprueft werden.
+201;Aktualitaet;Vertragsdaten sind mit den neuesten Aenderungen synchronisiert.
+202;Aktualisierung;"Vorgang; bei dem Vertragsdaten mit den neuesten Aenderungen synchronisiert werden."
+203;Nutzerrechte;"Definieren die Moeglichkeiten eines Benutzers; durch Vergabe von Rechten im System einzugreifen. Diese koennen erweitert; aber auch eingeschraenkt werden."
+204;Administratorrechte;Dienen der Pflege der Stammdaten. Es gibt allerdings keine Berechtigung zur Anzeige oder Bearbeitung von Vertraegen. Die Sperrung eines Benutzers fuer das Vertragsmanagement ist moeglich.
+205;Recht;(information mehr oder weniger in nutzerrechte enthalten)
+206;Anzeige;Rechnergestuetzte Darstellung eines Vertrags in einem softwareergonomischem Kontext.
+207;Bearbeitung;Interaktive Aenderung der Vertragsdaten.
+208;Rollenkonzept;"Das normale Rollenkonzept beschraenkt sich im Wirkungsbereich auf einen Mandanten und der Organisationsstruktur; zu der der zugehoerige Benutzer gehoert. Darueber hinaus soll es die Moeglichkeit geben ueber dieses Rollenkonzept hinaus einzelnen Anwendern oder einer Abteilung Leserechte fuer alle Mandanten oder Organisationsstrukturen zu geben. Ermoeglicht z.B. mandantenuebergreifende Auswertungen."
+209;Wirkungsbereich;Spezifiziertes Umfeld im System in welchem ein Benutzer  agieren kann. Im normalen Rollenkonzept auf den Mandant oder die Organisationsstruktur des jeweiligen Benutzers beschraenkt.
+210;Organisationsstruktur;
+211;Anwender;"(kann man weglassen; da Wortbedeutung User)"
+212;Interne Vertragsnummer;Wird automatisch erzeugt und dient dem System intern zur Identifikation eines Vertrags.
+213;Index;Interne Vertragsnummer als Index des zugehoerigen Vertrags.
+214;Weise;(weglassen)
+215;Externe Vertragsnummer;Wurde vom Vertragspartner festgelegt.
+216;Vertragstyp;Pflichtfeld: Auswahlfeld -> siehe Stammdaten
+217;Vertragsart;Pflichtfeld: Auswahlfeld -> siehe Stammdaten
+218;Unterart;Pflichtfeld: Auswahlfeld -> siehe Stammdaten. Die Auswahl ist abhaengig von der gewaehlten Vertragsart.
+219;Zugeordnete Abteilung;Abteilung fuer die ein Vertrag eine verbindliche Auswirkung hat.
+220;Ueberwachtende Abteilung;"Ein Status einer Abteilung; der dadurch festgelegt wurde; dass deren Dispatcher die Aufgabe hat; einen Vertrag zu ueberwachen."
+221;Nettokosten;"Effektive (bzw. tatsaechlich eingetretene) Nettokosten; die im Feld Betrag als Kosten eingegeben werden."
+222;Kostenanalyse;Um die Aussagekraft dieser zu verbessern werden Flags eingesetzt.
+223;Aussagekraft;"(weglassen;zu allgemein)"
+224;Vorauskasse;"Flag; das bei Vertraegen gesetzt wird; die durch eine Einmalzahlung langfristig gelten."
+225;Einmalzahlung;"(Bedeutung eher allgemein; weglassen)"
+226;Filterung;"Mechanismus; welcher der gezielten Auflistung von Vertraegen dient; die bestimmte Eigenschaften haben. Insbesondere sollen die Flags ""Vorauskasse"" und ""Anpassung"" solche Merkmale sein. "
+227;Folgejahre;(zu allgemein weglassen)
+228;Bezahlung;"(zu allgemein; weglassen)"
+229;Variabel;"Flag; das bei Vertraegen gesetzt wird; die verbrauchsabhaengig variable Kosten verursachen."
+230;Anpassung;Flag die representiert ob Preisveraenderungen bei einem Vertrag moeglich sind
 231;Verbrauch;variable Kosten aufgrund unterschiedlichen Verbauch zb Stromrechnung
-232;Größe;Geldmenge
-233;Zahlungsbeginn;Die Fälligkeit der ersten Zahlung
-234;Preisanpassungsklauseln;vertragliche möglichkeit zur änderung des Preises
+232;Groesse;Geldmenge
+233;Zahlungsbeginn;Die Faelligkeit der ersten Zahlung
+234;Preisanpassungsklauseln;vertragliche moeglichkeit zur aenderung des Preises
 235;Lohnsteigerungsindex;kann auswirkung auf die Kosten eines Vertrags haben
 236;Zahlungsintervall;wie oft muss gezahlt werden (in Monaten)
-237;Kostenstelle;"Innerbetriebliche ""Kasse"" wird für den Überblick benötigt"
+237;Kostenstelle;"Innerbetriebliche ""Kasse"" wird fuer den Ueberblick benoetigt"
 238;Belastung;Im Sinne von ein Konto belasten
 239;Vertragspartner;Die Partner zwischen denen der Vertrag abgeschlossen wurde
-240;Stammdaten;"""Datenbank"" mit Informationen über Vertragspartner"
-241;Inkrafttreten;wenn der Vertrag seine gültigkeit erlangt
+240;Stammdaten;"""Datenbank"" mit Informationen ueber Vertragspartner"
+241;Inkrafttreten;wenn der Vertrag seine gueltigkeit erlangt
 242;Vertragsbeginn;Das Datum des inkrafttretens des Vertrags
-243;Kündigungsfrist;Wie lange im Vorraus muss der Vertrag gekündigt werden
-244;Kündigungstermin;das Datum zu dem der Vertrag gekündigt werden kann
-245;Vorzeitig;noch bevor der Vertrag abläuft
-246;Vorzeitigkeit;noch bevor der Vertrag abläuft
-247;Vertragsende;Der Tag an dem der Vertrag automatisch abläuft
-248;Erinnerung;Erinnerung an Aufgaben die erledigt werden müssen
-249;Kündigung;Auflösen des Vertrags
-250;Kündigungstermin;das Datum zu dem der Vertrag gekündigt werden kann
+243;Kuendigungsfrist;Wie lange im Vorraus muss der Vertrag gekuendigt werden
+244;Kuendigungstermin;das Datum zu dem der Vertrag gekuendigt werden kann
+245;Vorzeitig;noch bevor der Vertrag ablaeuft
+246;Vorzeitigkeit;noch bevor der Vertrag ablaeuft
+247;Vertragsende;Der Tag an dem der Vertrag automatisch ablaeuft
+248;Erinnerung;Erinnerung an Aufgaben die erledigt werden muessen
+249;Kuendigung;Aufloesen des Vertrags
+250;Kuendigungstermin;das Datum zu dem der Vertrag gekuendigt werden kann
 251;Feld;Feld in der GUI
 252;Berechnungshilfe;kleines Tool das das Datum anhand einer Restlaufzeit berechnet
 253;Erinnerungsdatum;Der Tag an dem der dispatcher an eine Aufgabe erinnert wurde
-254;Vertragsstatus;Ein Vertrag kann mehrere Stati haben bsp Aktiv beendet gekündigt
+254;Vertragsstatus;Ein Vertrag kann mehrere Stati haben bsp Aktiv beendet gekuendigt
 255;Elektronisches Vertragsdokument;elektronische Kopie des Vertragsdokuments
-256;Ablaufen;Der Vertrag verliert seine Gültigkeit
-257;Benutzeroberfläche;GUI
-258;Ladezeit;Die Zeit die das System benötigt um die Seiten aufzurufen
+256;Ablaufen;Der Vertrag verliert seine Gueltigkeit
+257;Benutzeroberflaeche;GUI
+258;Ladezeit;Die Zeit die das System benoetigt um die Seiten aufzurufen
 259;Programmierung;Die Umsetzung des Programms
-260;Intuitivität;"einfache und ""vertraute"" handhabung des systems"
+260;Intuitivitaet;"einfache und ""vertraute"" handhabung des systems"
 261;Basis;auf Basis von (Grundlage)
 262;Benutzerfreundlichkeit;es gilt als Benutzerfreundlich, wenn es einfach und intuitiv zu benutzen ist
 263;HTML5;Hypertext Markup Language 5 
-264;Browser;Ein Programm mit dem unter anderem Websites angezeigt werden können
+264;Browser;Ein Programm mit dem unter anderem Websites angezeigt werden koennen
 265;Internetexplorer;ein bekannter Browser von Microsoft
 266;Edge;das Nachfolgeprogramm des Internetexplorers
 267;PDF-Dokument;ein Dateityp
 268;Bedienung;die Handhabung des Programms
-269;Client;Das System das das Programm ausführt
+269;Client;Das System das das Programm ausfuehrt
 270;Clientinstallation;eine Installation auf dem Client
 271;Datenbank;ein Tool zum Speichern von Daten
 272;MSSQL2014;eine Datenbank von Microsoft
 273;Single Sign on;single sign in? 
 274;Anmeldung;die authentifizierung des Benutzers im System
+275;Leasing;Vertragsart
