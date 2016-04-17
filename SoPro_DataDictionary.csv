@@ -91,52 +91,52 @@ Nummer;Nomen;Bedeutung
 90;Software;Das Vertragsmanagementsystem
 91;Zuweisung;Einem Vertrag wird ein Koordinator zugeteilt
 92;Moeglichkeit;(zu allgemein -> weg lassen)
-93;Flag;
-94;Standardauswertung;
-95;Leserechte;
-96;Stammdaten;
-97;Administrator;
-98;Benutzer;
-99;Rollen;
-100;Rechte;
-101;Parameter;
-102;Suchkriterien;
-103;Ansicht;
-104;Bearbeitung;
-105;Abstaende;
-106;Task;
-107;Erinnerungstermin;
-108;Eskalationstermin;
-109;Zustaendiger;
-110;Uebersicht;
-111;Gleichzeitigkeit;
-112;Auswahl;
-113;Aenderung;
-114;Ursache;
-115;Pruefung;
-116;Erzeugung;
-117;Kennzeichnung;
-118;Zur verfuegung stellen;
-119;Unterlagen;
-120;Bezeichnun;
-121;Freitextfeld;
-122;Pflicht;
-123;Kategorie;
-124;Auswahlfeld;
-125;Kuendigung;
-126;Schriftverker;
-127;Bemerkung;
-128;Freitext;
-129;Optionalitaet;
-130;Finanzkontrolling;
-131;Terminkontrolling;
-132;Vertragskontrolling;
+93;Flag;binaere Variable oder Statusindikator, welcher als Hilfsmittel zur Kennzeichnung bestimmter Zustaende benutzt werden kann. Kann gesetzt, geloescht oder ausgelesen werden
+94;Standardauswertung;;
+95;Leserechte;"lesender Zugriff auf Vertrag/Vertragsdaten, wird durch Besitzer, Koordinator oder Dispatcher verwaltet"
+96;Stammdaten;Daten, die wichtige Grundinformationen ueber den Benutzer enthalten
+97;Administrator;softwaretechnischer Betreuer, verfuegt auch ueber Zugriffsrechte
+98;Benutzer;Personen, die mit dieser Software arbeiten
+99;Rollen;Benutzer mit bestimmten Rechten, Bsp: Besitzer, Koordinator, Dispatcher
+100;Rechte;(klar-->weglassen)
+101;Parameter;Woerter/Begriffe die ausgewaehlt werden koennen, um eine Liste zu filtern
+102;Suchkriterien;Stichwoerter, die es ermoeglichen den gewuenschten Vertrag zu finden
+103;Ansicht;geoeffnetes Fenster, in dem der Vertrag angeschaut werden kann
+104;Bearbeitung;geoeffnetes Fenster, in dem der Vertrag veroendert werden kann
+105;Abstaende;zeitliches Intervall
+106;Task;automatisierter Task: automatisiert/selbststoendig ablaufende Aufgabenschritte
+107;Erinnerungstermin;Termin an dem die Dispatcher daran erinnert werden, dass zum Vertrag Aufgaben wie zum Beispiel die Kuendigung eines Vertrages anstehen 
+108;Eskalationstermin;Datum an dem Koordinator und Vertragsinhaber alarmiert werden, dass ein Termin ansteht der durch den Dispatcher bisher nicht bearbeitet wurde. Das Datum muss nach dem Erinnerungsdatum liegen
+109;Zustaendiger;Verantwortlicher fuer einen Vertrag
+110;Uebersicht;"geoeffnetes Fenster, in dem alle ""offenen Aufgaben"" aufgelistet sind"
+111;Gleichzeitigkeit;(selbsterklaerend --> weglassen)
+112;Auswahl;(klar --> weglassen)
+113;Aenderung;(klar --> weglassen)
+114;Ursache;(klar --> weglassen)
+115;Pruefung;Vertrag wird auf bestimmte Kriterien/Sachverhalte untersucht
+116;Erzeugung;(klar --> weglassen)
+117;Kennzeichnung;(klar --> weglassen)
+118;Zur verfaegung stellen;Zugriff auf Vertrag
+119;Unterlagen;zusoetzliche/zugeordnete Dokumente zum Vetrag
+120;Bezeichnun;bzgl Hochladen eines Dokuments: Freitextfeld, welches ausgefuellt werden muss (Pflicht)
+121;Freitextfeld;Stelle/Feld in dem etwas beliebieges reingeschrieben werden kann
+122;Pflicht;(selbsterkloerend --> weglassen)
+123;Kategorie;bzgl Hochladen eines Dokuments: Auswahlfeld, welches ausgefuellt werden muss (Pflicht)
+124;Auswahlfeld;Dropdown-Menu, Bsp(zur Auswahl frei): Vertra, Anlage zum Vertrag, Kuendigung, sonstiger Schriftverkehr
+125;Kaendigung;(klar --> weglassen)
+126;Schriftverker;(klar --> weglassen)
+127;Bemerkung;bzgl Hochladen eines Dokuments: Freitextfeld, welches ausgefuellt werden kann (optional)
+128;Freitext;(weglassen)
+129;Optionalitaet;(klar --> weglassen)
+130;Finanzkontrolling;Planung, Kontrolle, Steuerung und Informationsversorgung bei der Gestaltung von Zahlungsstroemen --> kostenoptimale Sicherstellung der Liquiditoet
+131;Terminkontrolling;legt Anfangs- und Endtermine fuer das Durchfuehren von Aufgaben fest
+132;Vertragskontrolling;Betreuung vertraglicher Verhandlungen zwischen Auftraggeber und Auftragnehmer, Implementierung von Vertroegen und Vornahme von Vertragsoenderungen
 133;Auswertungsexplorer;
-134;Ergebnisse;
-135;Tabellenformat;
-136;Endauslieferung;
-137;Export;
-138;Stammdatenverwaltung;
+134;Ergebnisse;(klar --> weglassen)
+135;Tabellenformat;Daten sind in Tabelle(n)(Gitter(n)) angeordnet
+136;Endauslieferung;finale Auslieferung (??)
+137;Export;bzgl. Dateien: in anderes (Daten-)Format ueberfuehren
+138;Stammdatenverwaltung;Organisation der Stammdaten
 139;Maske;In einer EDV-Anlage gespeicherte Daten werden mit Hilfe von Masken auf einem Datensichtgeraet dargestellt. Ebenso werden neue Daten fuer die Speicherung in einer Maske erfasst.
 140;Loeschung;Entfernen von Daten aus der Datenhaltung
 141;Organigramm;ein Schaubild das in Form einer Pfeilgrafik Strukturen innerhalb eines Unternehmens zeigt.
