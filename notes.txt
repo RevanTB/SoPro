@@ -1,0 +1,4 @@
+Vorschlaege fuer weitere Begriffe im DataDictionary:
+- Version
+- Abschluss
+- Daten
