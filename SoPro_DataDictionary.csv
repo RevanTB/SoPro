@@ -229,48 +229,48 @@ Nummer,Nomen,Bedeutung
 227,Folgejahre,(zu allgemein weglassen)
 228,Bezahlung,"(zu allgemein, weglassen)"
 229,Variabel,"Flag, das bei Vertraegen gesetzt wird, die verbrauchsabhaengig variable Kosten verursachen."
-230,Anpassung,"Flag, das bei Vertraegen gesetzt wird, die Preisanpassungsklauseln durch Lohnsteigerungsindex usw. unterliegen."
-231,Verbrauch,
-232,Groesse,
-233,Zahlungsbeginn,
-234,Preisanpassungsklauseln,
-235,Lohnsteigerungsindex,
-236,Zahlungsintervall,
-237,Kostenstelle,
-238,Belastung,
-239,Vertragspartner,
-240,Stammdaten,
-241,Inkrafttreten,
-242,Vertragsbeginn,
-243,Kuendigungsfrist,
-244,Kuendigungstermin,
-245,Vorzeitig,
-246,Vorzeitigkeit,
-247,Vertragsende,
-248,Erinnerung,
-249,Kuendigung,
-250,Kuendigungstermin,
-251,Feld,
-252,Berechnungshilfe,
-253,Erinnerungsdatum,
-254,Vertragsstatus,
-255,Elektronisches Vertragsdokument,
-256,Ablauf,
-257,Benutzeroberflaeche,
-258,Ladezeit,
-259,Programmierung,
-260,Intuitivitaet,
-261,Basis,
-262,Benutzerfreundlichkeit,
-263,HTML5,
-264,Browser,
-265,Internetexplorer,
-266,Edge,
-267,PDF-Dokument,
-268,Bedienung,
-269,Client,
-270,Clientinstallation,
-271,Datenbank,
-272,MSSQL2014,
-273,Single Sign on,
-274,Anmeldung,
+230;Anpassung;Flag die representiert ob Preisveränderungen bei einem Vertrag möglich sind
+231;Verbrauch;variable Kosten aufgrund unterschiedlichen Verbauch zb Stromrechnung
+232;Größe;Geldmenge
+233;Zahlungsbeginn;Die Fälligkeit der ersten Zahlung
+234;Preisanpassungsklauseln;vertragliche möglichkeit zur änderung des Preises
+235;Lohnsteigerungsindex;kann auswirkung auf die Kosten eines Vertrags haben
+236;Zahlungsintervall;wie oft muss gezahlt werden (in Monaten)
+237;Kostenstelle;"Innerbetriebliche ""Kasse"" wird für den Überblick benötigt"
+238;Belastung;Im Sinne von ein Konto belasten
+239;Vertragspartner;Die Partner zwischen denen der Vertrag abgeschlossen wurde
+240;Stammdaten;"""Datenbank"" mit Informationen über Vertragspartner"
+241;Inkrafttreten;wenn der Vertrag seine gültigkeit erlangt
+242;Vertragsbeginn;Das Datum des inkrafttretens des Vertrags
+243;Kündigungsfrist;Wie lange im Vorraus muss der Vertrag gekündigt werden
+244;Kündigungstermin;das Datum zu dem der Vertrag gekündigt werden kann
+245;Vorzeitig;noch bevor der Vertrag abläuft
+246;Vorzeitigkeit;noch bevor der Vertrag abläuft
+247;Vertragsende;Der Tag an dem der Vertrag automatisch abläuft
+248;Erinnerung;Erinnerung an Aufgaben die erledigt werden müssen
+249;Kündigung;Auflösen des Vertrags
+250;Kündigungstermin;das Datum zu dem der Vertrag gekündigt werden kann
+251;Feld;Feld in der GUI
+252;Berechnungshilfe;kleines Tool das das Datum anhand einer Restlaufzeit berechnet
+253;Erinnerungsdatum;Der Tag an dem der dispatcher an eine Aufgabe erinnert wurde
+254;Vertragsstatus;Ein Vertrag kann mehrere Stati haben bsp Aktiv beendet gekündigt
+255;Elektronisches Vertragsdokument;elektronische Kopie des Vertragsdokuments
+256;Ablaufen;Der Vertrag verliert seine Gültigkeit
+257;Benutzeroberfläche;GUI
+258;Ladezeit;Die Zeit die das System benötigt um die Seiten aufzurufen
+259;Programmierung;Die Umsetzung des Programms
+260;Intuitivität;"einfache und ""vertraute"" handhabung des systems"
+261;Basis;auf Basis von (Grundlage)
+262;Benutzerfreundlichkeit;es gilt als Benutzerfreundlich, wenn es einfach und intuitiv zu benutzen ist
+263;HTML5;Hypertext Markup Language 5 
+264;Browser;Ein Programm mit dem unter anderem Websites angezeigt werden können
+265;Internetexplorer;ein bekannter Browser von Microsoft
+266;Edge;das Nachfolgeprogramm des Internetexplorers
+267;PDF-Dokument;ein Dateityp
+268;Bedienung;die Handhabung des Programms
+269;Client;Das System das das Programm ausführt
+270;Clientinstallation;eine Installation auf dem Client
+271;Datenbank;ein Tool zum Speichern von Daten
+272;MSSQL2014;eine Datenbank von Microsoft
+273;Single Sign on;single sign in? 
+274;Anmeldung;die authentifizierung des Benutzers im System
