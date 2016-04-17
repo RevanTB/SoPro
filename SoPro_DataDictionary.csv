@@ -93,7 +93,7 @@ Nummer;Nomen;Bedeutung
 92;Moeglichkeit;(zu allgemein -> weg lassen)
 93;Flag;binaere Variable oder Statusindikator, welcher als Hilfsmittel zur Kennzeichnung bestimmter Zustaende benutzt werden kann. Kann gesetzt, geloescht oder ausgelesen werden
 94;Standardauswertung;;
-95;Leserechte;"lesender Zugriff auf Vertrag/Vertragsdaten, wird durch Besitzer, Koordinator oder Dispatcher verwaltet"
+95;Leserechte;lesender Zugriff auf Vertrag/Vertragsdaten, wird durch Besitzer, Koordinator oder Dispatcher verwaltet
 96;Stammdaten;Daten, die wichtige Grundinformationen ueber den Benutzer enthalten
 97;Administrator;softwaretechnischer Betreuer, verfuegt auch ueber Zugriffsrechte
 98;Benutzer;Personen, die mit dieser Software arbeiten
@@ -108,7 +108,7 @@ Nummer;Nomen;Bedeutung
 107;Erinnerungstermin;Termin an dem die Dispatcher daran erinnert werden, dass zum Vertrag Aufgaben wie zum Beispiel die Kuendigung eines Vertrages anstehen 
 108;Eskalationstermin;Datum an dem Koordinator und Vertragsinhaber alarmiert werden, dass ein Termin ansteht der durch den Dispatcher bisher nicht bearbeitet wurde. Das Datum muss nach dem Erinnerungsdatum liegen
 109;Zustaendiger;Verantwortlicher fuer einen Vertrag
-110;Uebersicht;"geoeffnetes Fenster, in dem alle ""offenen Aufgaben"" aufgelistet sind"
+110;Uebersicht;geoeffnetes Fenster, in dem alle offenen Aufgaben aufgelistet sind
 111;Gleichzeitigkeit;(selbsterklaerend --> weglassen)
 112;Auswahl;(klar --> weglassen)
 113;Aenderung;(klar --> weglassen)
