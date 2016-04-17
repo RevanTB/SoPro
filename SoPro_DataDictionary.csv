@@ -1,15 +1,15 @@
 Nummer,Nomen,Bedeutung
-1,Standort,
-2,Vertrag,
-3,Betroffene,
-4,Vertragsinhalte,
-5,Vertragsaenderung,
-6,Uebersichten,
-7,Zugriff,
-8,Auswertungen,
-9,Terminueberwachung,
-10,Fristueberwachung,
-11,Mandant,
+1,Standort,Physikalischer Ort an dem ein Teil des Unternehmens seinen Sitz hat
+2,Vertrag,Schriftliche und bindende Abmachung zwischen zwei oder mehr beteiligten Parteien. Koordiniert und regelt deren Verhalten (in bestimmten Bereichen/Themen)
+3,Betroffene,Personen oder Gruppen die von einem Vertrag beeinflusst werden
+4,Vertragsinhalte,Informationen die ein Vertrag beinhaltet
+5,Vertragsaenderung,Anpassungen die vor oder nach dem Abschluss des Vertrages getaetigt werden
+6,Uebersichten,Listen in digitaler oder analoger Form die einen Ueberblick ueber laufende Vertraege geben
+7,Zugriff,Lesende oder schreibende Handlung einer oder mehrerer Personen die sich auf vorhandene Daten beziehen
+8,Auswertungen,Sammlung von Informationen ueber mehr als einen Vertrag
+9,Terminueberwachung,Sicherstellung dass im Vertrag festgelegte Termine eingehalten werden
+10,Fristueberwachung,Sicherstellung dass im Vertrag festgelegte Fristen eingehalten werden (evtl. doch beide (9+10) zusammenfassen?)
+11,Mandantenfähigkeit,Moeglichkeit mehrere Mandanten (Kunden/Auftraggeber) bedienen zu koennen
 12,Workflowengine,
 13,Benachrichtigungswesen,
 14,Vertragsverwaltungssoftware,
