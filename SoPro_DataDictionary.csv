@@ -1,96 +1,96 @@
 Nummer,Nomen,Bedeutung
-1,Standort,
-2,Vertrag,
-3,Betroffene,
-4,Vertragsinhalte,
-5,Vertragsaenderung,
-6,Uebersichten,
-7,Zugriff,
-8,Auswertungen,
-9,Terminueberwachung,
-10,Fristueberwachung,
-11,Mandant,
-12,Workflowengine,
-13,Benachrichtigungswesen,
-14,Vertragsverwaltungssoftware,
-15,Dokumentenverwaltung,
-16,Organisationseinheiten,
-17,Besitzer,
-18,Mandantenuebergreifend,
-19,Vorstand,Organisationseinheiten
-20,Servicecenter,Organisationseinheiten
-21,IT,Organisationseinheiten
-22,Kosten,
-23,Kostenstellen,
-24,Vertragsarten,
-25,Supportvertraege,
-26,Mietvertraege,
-27,Kooperationsvertraege,
-28,Untergliederung,
-29,Kostenarten,
-30,EDV-Vertraege,
-31,Telekommunikationsvertraege,
-32,Ueberwachung,
-33,Benachrichtigungsfunktion,
-34,Eskalationsmanagement,
-35,Benachrichtigung,
-36,automatisch erstellte E-Mail,
-37,Dispatcherfunktion,
-38,Mitarbeiterzuordnung,
-39,Eskalationsstufen,
-40,Personen,
-41,Aufgabenausuebung,
-42,Deligiert,
-43,Aufgaben,
-44,Berechtigungen,
-45,Technischer Betrieb,Aufgaben
-46,Mandatenuebergreifen,
-47,Übersicht,Ausgabe der Aufgaben zu Verträgen
-48,Rahmenverträge,Besteht aus mehreren Einzelverträgen
-49,Einzelverträge,Ein Vertrag der mit anderen zu einem Rahmenvertrag gebündelt werden kann
+1,Standort,Physikalischer Ort an dem ein Teil des Unternehmens seinen Sitz hat
+2,Vertrag,Schriftliche und bindende Abmachung zwischen zwei oder mehr beteiligten Parteien. Koordiniert und regelt deren Verhalten (in bestimmten Bereichen/Themen)
+3,Betroffene,Personen oder Gruppen die von einem Vertrag beeinflusst werden
+4,Vertragsinhalte,Informationen die ein Vertrag beinhaltet
+5,Vertragsaenderung,Anpassungen die vor oder nach dem Abschluss des Vertrages getaetigt werden
+6,Uebersichten,Listen in digitaler oder analoger Form die einen Ueberblick ueber laufende Vertraege geben
+7,Zugriff,Lesende oder schreibende Handlung einer oder mehrerer Personen die sich auf vorhandene Daten beziehen
+8,Auswertungen,Sammlung von Informationen ueber mehr als einen Vertrag
+9,Terminueberwachung,Sicherstellung dass im Vertrag festgelegte Termine eingehalten werden
+10,Fristueberwachung,Sicherstellung dass im Vertrag festgelegte Fristen eingehalten werden (evtl. doch beide (9+10) zusammenfassen?)
+11,Mandantenfaehigkeit,Moeglichkeit mehrere Mandanten (Kunden/Auftraggeber) bedienen zu koennen
+12,Workflowengine,Softwareanwendung mit Benachrichtigungsfunktion und Eskalationsmanagement die Geschaeftsprozesse verwaltet - Typischerweise mit Datenbankanbindung - Bestandteil von Vertragsverwaltungssoftware
+13,Benachrichtigungswesen,Moeglichkeit betroffene Personen und Gruppen automatisch zu informieren/benachrichtigen - Bestandteil von Vertragsverwaltungssoftware
+14,Vertragsverwaltungssoftware,Computerprogramm dass zur Verwaltung von Vertraegen verwendet wird
+15,Dokumentenverwaltung,Digitale Platform auf der man Dokumente verwalten kann - Bestandteil von Vertragsverwaltungssoftware
+16,Organisationseinheit,Einteilung von Mandanten mit bestimmten Aufgabenbereichen in Gruppen
+17,Besitzer,Verantwortlicher fuer einen Vertrag - gehoert der Organisationseinheit an, an die der Vertrag gebunden ist
+18,Mandantenuebergreifend,Zustand von Organisationseinheiten deren Mandanten ueber die Organisationseinheit hinaus taetig sind
+19,Vorstand,Leitungsorgan eines Unternehmens - mandantenuebergreifende Organisationseinheit
+20,Servicecenter,Erbringen Dienstleistungen fuer andere Unternehmensbereiche - mandantenuebergreifende Organisationseinheit
+21,IT,Informationstechnologie-Abteilung - mandantenuebergreifende Organisationseinheit
+22,Kosten,Zu zahlende Geldmittel die durch einen Vertrag anfallen
+23,Kostenstelle,Ort der Kostenentstehung und Leistungserbringung
+24,Vertragsart,Untergliederung von Vertraegen
+25,Supportvertrag,Vertrag der Supportangelegenheiten regelt - Vertragsart
+26,Mietvertrag,Vertrag der eine Miete regelt - Vertragsart
+27,Kooperationsvertrag,Vertrag der die Kooperation verschiedener Einheiten (z.B. Unternehmen) regelt - Vertragsart
+28,Untergliederung,(weg lassen?)
+29,Kostenart,Zuordnung von Vertraegen hinsichtlich ihrer Kosten
+30,EDV-Vertrag,Vertrag welcher der Elektronischen Datenverarbeitung zugeordnet wird - Kostenart
+31,Telekommunikationsvertrag,Vertrag der in den Bereich der Telekommunikation faellt - Kostenart
+32,Ueberwachung,Sicherstellung dass alle Bereiche eines Systems ordnungsgemaes arbeiten - durch Workflow-Engine realisiert
+33,Benachrichtigungsfunktion,Automatisierte digitale Informationsuebermittlung um Beteiligte eines Vertrages ueber Neuigkeiten auf dem Laufenden zu halten - Bestandteil einer Workflow-Engine
+34,Eskalationsmanagement,Automatische digitales Errinnerungssystem fuer Koordinator und Vertragsinhaber - Bestandteil einer Workflow-Engine
+35,Benachrichtigung,Informationsuebermittlung - meist ueber digitalen Weg - die Anwender ueber Neuigkeiten informiert
+36,automatisch erstellte E-Mail,E-Mail die durch die Workflow-Engine auf Basis von vordefinierten Bausteinen erstellt wird um Benutzer zu informieren
+37,Dispatcher-Funktion,-> siehe Dispatcher
+38,Mitarbeiterzuordnung,?
+39,Eskalationsstufen,?
+40,Personen,(weg lassen?)
+41,Aufgabenausuebung,(weg lassen?)
+42,Deligiert,Vergabe von Aufgaben(-bereichen) an Personen
+43,Aufgaben,Dinge die Personen auf Grund ihres Berufes und den damit verbundenen Pflichten zu erledigen haben
+44,Berechtigungen,Das Recht fuer bestimmte Personen besondere Aufgaben zu erledigen
+45,Technischer Betrieb,Beispiel fuer Organisationseinheit mit Aufgaben durch die sie von Aenderungen (z.B. hinsichtlich Eskalationsstufen) betroffen ist
+46,Mandant,Kunde bzw. Auftraggeber eines Vertrages bzw. vom Vertrag betroffene Personen
+47,Uebersicht,Ausgabe der Aufgaben zu Vertraegen
+48,Rahmenvertraege,Besteht aus mehreren Einzelvertraegen
+49,Einzelvertraege,Ein Vertrag der mit anderen zu einem Rahmenvertrag gebuendelt werden kann
 50,Berichtswesen,
-51,Exportmöglichkeit,Daten können aus dem Programm für andere Nutzung zur Verfügung gestellt werden(Welchen Daten in welcher Form)
+51,Exportmoeglichkeit,Daten koennen aus dem Programm fuer andere Nutzung zur Verfuegung gestellt werden(Welchen Daten in welcher Form)
 52,Dokumente,Kann einen Vertrag oder anderen Schriftverkehr darstellen
 53,Fundortverwaltung,
 54,Originale,(Zu allgemein -> weg lassen)
 55,Vertragsabschluss,(Zu allgemein)
 56,Anlage,(es ist das anlegen eines Vertrags gemeint-> weg lassen zu allgemein)
-57,Vertragsinhaber,Hält den Vertrag zuerst in den händen und bearbeitet diesen
+57,Vertragsinhaber,Haelt den Vertrag zuerst in den haenden und bearbeitet diesen
 58,Bearbeitungsstatus,Gibt an ob alle Pflichtfelder bearbeitet wurden
 59,Recht,(zu allgemein -> weg lassen)
-60,Pflichtfelder,Markiert Angaben in einem Formular die ausgefüllt werden müssen
+60,Pflichtfelder,Markiert Angaben in einem Formular die ausgefuellt werden muessen
 61,Vertragsmanagement,Ist eine Vertragsverwaltungssoftware
-62,Zuordnung,Einteilung eines Koordinators für einen Vertrag
+62,Zuordnung,Einteilung eines Koordinators fuer einen Vertrag
 63,Vertragsname,Name den der Vertrag erhalten soll
-64,Koordinator,Der zustsändige Bereich(Regionalleiter DLZ-Leiter...)
-65,Status,Gibt an ob ein Vertrag vollständig ist
-66,Liste,Ausgabe unvollständiger Verträge
+64,Koordinator,Der zustsaendige Bereich(Regionalleiter DLZ-Leiter...)
+65,Status,Gibt an ob ein Vertrag vollstaendig ist
+66,Liste,Ausgabe unvollstaendiger Vertraege
 67,Aufgabe,Bei Vertragsanlage Dispatcher anlegen
 68,Vertragsanlage,(Es ist das Anlegen eines Vetrags gemeint -> zu allgemein)
 69,Mailbenachrichtigung,Mitteilung an den Koordinator das ein Vertrag zugeordnet wurde
 70,Anmelden,(Zu allgemein -> weg lassen)
 71,System,Stellt das Vetragsmanagement da
 72,Detailansicht,Stellt genaue Angaben zum Vertrag da
-73,Dispatcher,Pflegt Vertragsdaten bestimmt Koordinatoren und überwacht Laufzeiten sowie Fristen
-74,Link,Möglichkeit aus Email schnell Details eines Vertrags zu sehen
-75,Vollständigkeit,Alle Pflichtfelder sind ausgefüllt und Kopie des Vertrags hochgeladen
+73,Dispatcher,Pflegt Vertragsdaten bestimmt Koordinatoren und ueberwacht Laufzeiten sowie Fristen
+74,Link,Moeglichkeit aus Email schnell Details eines Vertrags zu sehen
+75,Vollstaendigkeit,Alle Pflichtfelder sind ausgefuellt und Kopie des Vertrags hochgeladen
 76,Speichern,Sicherung der Eingaben
 77,Bedingung,Voraussetzung zum Hochladen eines Dokuments
 78,Kopie,(Zu allgemein -> weg lassen)
 79,Hochladen,Dokument in der Datenbank speichern
 80,Dokument,(war schon position 52 -> weg lassen)
 81,Programm,Das Vertragsmanagement
-82,Eingabe,Benötigte Daten für den Vertrag
+82,Eingabe,Benoetigte Daten fuer den Vertrag
 83,Zeitpunkt,(zu allgemein -> weg lassen)
 84,Aufgabenfenster,Liste der offenen Aufgaben
 85,Inhaber,Ist Vertragsinhaber
 86,Sonderfall,Abweichung vom Normalfall falls zentrale Stelle im Vertrag zwischengeschaltet wird
 87,Ablauf,(zu allgemein -> weg lassen)
-88,Absätze,(bezieht sich auf teil des Fachkonzepts -> weg lassen)
+88,Absaetze,(bezieht sich auf teil des Fachkonzepts -> weg lassen)
 89,Stelle,(was ist zentrale Stelle?)
 90,Software,Das Vertragsmanagementsystem
 91,Zuweisung,Einem Vertrag wird ein Koordinator zugeteilt
-92,Möglichkeit,(zu allgemein -> weg lassen)
+92,Moeglichkeit,(zu allgemein -> weg lassen)
 93,Flag,
 94,Standardauswertung,
 95,Leserechte,
