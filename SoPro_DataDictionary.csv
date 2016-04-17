@@ -45,52 +45,52 @@ Nummer,Nomen,Bedeutung
 44,Berechtigungen,
 45,Technischer Betrieb,Aufgaben
 46,Mandatenübergreifen,
-47,Übersicht,
-48,Rahmenverträge,
-49,Einzelverträge,
+47,Übersicht,Ausgabe der Aufgaben zu Verträgen
+48,Rahmenverträge,Besteht aus mehreren Einzelverträgen
+49,Einzelverträge,Ein Vertrag der mit anderen zu einem Rahmenvertrag gebündelt werden kann
 50,Berichtswesen,
-51,Exportmöglichkeit,
-52,Dokumente,
+51,Exportmöglichkeit,Daten können aus dem Programm für andere Nutzung zur Verfügung gestellt werden(Welchen Daten in welcher Form)
+52,Dokumente,Kann einen Vertrag oder anderen Schriftverkehr darstellen
 53,Fundortverwaltung,
-54,Originale,
-55,Vertragsabschluss,
-56,Anlage,
-57,Vertragsinhaber,
-58,Bearbeitungsstatus,
-59,Recht,
-60,Pflichtfelder,
-61,Vertragsmanagement,
-62,Zuordnung,
-63,Vertragsname,
-64,Koordinator,
-65,Status,
-66,Liste,
-67,Aufgabe,
-68,Vertragsanlage,
-69,Mailbenachrichtigung,
-70,Anmelden,
-71,System,
-72,Detailansicht,
-73,Dispatcher,
-74,Link,
-75,Vollständigkeit,
-76,Speichern,
-77,Bedingung,
-78,Kopie,
-79,Hochladen,
-80,Dokument,
-81,Programm,
-82,Eingabe,
-83,Zeitpunkt,
-84,Aufgabenfenster,
-85,Inhaber,
-86,Sonderfall,
-87,Ablauf,
-88,Absätze,
-89,Stelle,
-90,Software,
-91,Zuweisung,
-92,Möglichkeit,
+54,Originale,(Zu allgemein, weg lassen)
+55,Vertragsabschluss,(Zu allgemein)
+56,Anlage,(es ist das anlegen eines Vertrags gemeint-> weg lassen zu allgemein)
+57,Vertragsinhaber,Hält den Vertrag zuerst in den händen und bearbeitet diesen
+58,Bearbeitungsstatus,Gibt an ob alle Pflichtfelder bearbeitet wurden
+59,Recht,(zu allgemein -> weg lassen)
+60,Pflichtfelder,Markiert Angaben in einem Formular die ausgefüllt werden müssen
+61,Vertragsmanagement,Ist eine Vertragsverwaltungssoftware
+62,Zuordnung,Einteilung eines Koordinators für einen Vertrag
+63,Vertragsname,Name den der Vertrag erhalten soll
+64,Koordinator,Der zustsändige Bereich(Regionalleiter DLZ-Leiter...)
+65,Status,Gibt an ob ein Vertrag vollständig ist
+66,Liste,Ausgabe unvollständiger Verträge
+67,Aufgabe,Bei Vertragsanlage Dispatcher anlegen
+68,Vertragsanlage,(Es ist das Anlegen eines Vetrags gemeint -> zu allgemein)
+69,Mailbenachrichtigung,Mitteilung an den Koordinator das ein Vertrag zugeordnet wurde
+70,Anmelden,(Zu allgemein -> weg lassen)
+71,System,Stellt das Vetragsmanagement da
+72,Detailansicht,Stellt genaue Angaben zum Vertrag da
+73,Dispatcher,Pflegt Vertragsdaten bestimmt Koordinatoren und überwacht Laufzeiten sowie Fristen
+74,Link,Möglichkeit aus Email schnell Details eines Vertrags zu sehen
+75,Vollständigkeit,Alle Pflichtfelder sind ausgefüllt und Kopie des Vertrags hochgeladen
+76,Speichern,Sicherung der Eingaben
+77,Bedingung,Voraussetzung zum Hochladen eines Dokuments
+78,Kopie,(Zu allgemein -> weg lassen)
+79,Hochladen,Dokument in der Datenbank speichern
+80,Dokument,(war schon position 52 -> weg lassen)
+81,Programm,Das Vertragsmanagement
+82,Eingabe,Benötigte Daten für den Vertrag
+83,Zeitpunkt,(zu allgemein -> weg lassen)
+84,Aufgabenfenster,Liste der offenen Aufgaben
+85,Inhaber,Ist Vertragsinhaber
+86,Sonderfall,Abweichung vom Normalfall falls zentrale Stelle im Vertrag zwischengeschaltet wird
+87,Ablauf,(zu allgemein -> weg lassen)
+88,Absätze,(bezieht sich auf teil des Fachkonzepts -> weg lassen)
+89,Stelle,(was ist zentrale Stelle?)
+90,Software,Das Vertragsmanagementsystem
+91,Zuweisung,Einem Vertrag wird ein Koordinator zugeteilt
+92,Möglichkeit,(zu allgemein -> weg lassen)
 93,Flag,
 94,Standardauswertung,
 95,Leserechte,
