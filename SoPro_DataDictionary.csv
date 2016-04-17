@@ -137,52 +137,53 @@ Nummer,Nomen,Bedeutung
 136,Endauslieferung,
 137,Export,
 138,Stammdatenverwaltung,
-139,Maske,
-140,Löschung,
-141,Organigramm,
-142,Unternehmen,
-143,Unternehmensleitung,
-144,Bezirkskrankenhaus,
-145,Buchhaltungssicht,
-146,Buchungskreise,
-147,Wohnen und Fördern,
-148,Unterabteilung,
-149,Abteilungsleitung,
-150,Stellvertreter,
-151,Liegenschaften,
-152,Leistungsempfänger,
-153,Leistungsbringer,
-154,Vertragstyp,
-155,Vertragsart,
-156,Hardware,
-157,Merkmal,
-158,Kaufleasing,
-159,Miete,
-160,Wartung,
-161,Dienstleistung,
-162,Neuanlage,
-163,Import ,
-164,Export,
+139,Maske,In einer EDV-Anlage gespeicherte Daten werden mit Hilfe von Masken auf einem Datensichtgerät dargestellt. Ebenso werden neue Daten für die Speicherung in einer Maske erfasst.
+140,Löschung,Entfernen von Daten aus der Datenhaltung
+141,Organigramm,ein Schaubild das in Form einer Pfeilgrafik Strukturen innerhalb eines Unternehmens zeigt.
+142,Unternehmen,Eine Firma. In diesem Fall die Bezirkskliniken Schwaben.
+143,Unternehmensleitung,"Ein Mandant. Die Aufgabe der Unternehmensführung besteht in finalen Entscheidungen über betriebliche Abläufe, Unterzeichnung von Verträgen, die das ganze Unternehmen betreffen, und in der Bekleidung einer repräsentativen Rolle."
+144,Bezirkskrankenhaus,Ein Mandant.
+145,Buchhaltungssicht,Wie ein Sachverhalt vom Standpunkt der Buchhaltung gesehen wird.
+146,Buchungskreise,Die Art und Weise wie Mandanten in der Buchhaltung eingeteilt werden.
+147,Wohnen und Fördern,Ein Mandant.
+148,Unterabteilung,kleinere Abteilung in einer größeren 
+149,Abteilungsleitung,"Die Abteilungsleitung sind die Führungskräfte einer Organisationseinheit, der Abteilung."
+150,Stellvertreter,jmd. Der einen anderen vertritt und für eine gewisse Zeit seine Aufgaben übernimmt. 
+151,Liegenschaften,Ein Grundstück in der Rechts- und Wirtschaftssprache
+152,Leistungsempfänger,jmd. der Aufwenungen erhält
+153,Leistungsbringer,jmd. der Aufwenungen erbringt
+154,Vertragstyp,Kategorie in die sich ein Vertrag einordnen lässt. Kann auch Unterkategorien haben
+155,Vertragsart,Kategorie in die sich ein Vertrag einordnen lässt.
+156,Hardware,Ein Vertragstyp. Die Geräte die zu einer Datenverarbeitungsanlage gehören. 
+157,Merkmal,ein charakteristisches Kennzeichen das typisch für jmdn. oder etwas ist. 
+158,Kauf,Vertragsart
+,Leasing,Vertragsart
+159,Miete,"Vertragsart. Der Geldbetrag den man dem Eigentümer einer Wohnung monatlich bezahlen muss, damit man in seiner Wohnung wohnen darf. "
+160,Wartung,Vertragsart
+161,Dienstleistung,Vertragsart
+162,Neuanlage,Hinzufügen von Daten in die Datenhaltung
+163,Import ,Hinzufügen von Daten aus einem anderen System in die Datenhaltung
+164,Export,Hinzufügen von Daten in ein anderes System aus der Datenhaltung
 165,Importfunktion,
 166,Exportfunktion,
-167,Kostenstellenplan,
-168,Eingabemaske,
-169,Minimalanforderung,
-170,csv-Datei,
-171,Kreditor,
-172,Debitor,
-173,Formular,
-174,Stellvertretender Dispatcher,
-175,User,
-176,Anbindung,
-177,Active Directory,
-178,Gruppe,
-179,Gruppenname,
-180,Attribut,
-181,Abgleich,
-182,Rechtevergabe,
-183,Sperren,
-184,IT-Vertrag,
+167,Kostenstellenplan,Der Kostenstellenplan ist eine systematisch geordnete Zusammenstellung aller Kostenstellen eines Unternehmens 
+168,Eingabemaske,In einer EDV-Anlage werden neue Daten für die Speicherung in einer Maske erfasst.
+169,Minimalanforderung,"Als Mindestanforderungen bezeichnet man allgemein die Anforderungen an technische wie nichttechnische Systeme, Produkte, Dienstleistungen oder Prozesse, die zur Erreichung von vordefinierten Mindestzielen erforderlich sind. "
+170,csv-Datei,Das Dateiformat CSV steht für englisch Comma-separated values und beschreibt den Aufbau einer Textdatei zur Speicherung oder zum Austausch einfach strukturierter Daten.
+171,Kreditor,Ein Kreditor ist im deutschen Rechnungswesen der Gläubiger von Forderungen aus Lieferungen und Leistungen. 
+172,Debitor,Schuldner der Waren oder Leistungen auf Kredit bezogen hat. 
+173,Formular,Vordruck mit Feldern in die bestimmte Informationen eingetragen werden sollen. 
+174,Stellvertretender Dispatcher,leitender Angestellter zur Überwachung (industrieller) Produktionsabläufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfügung stehenden Mittel und gewährleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
+175,User,Des Benutzer eines Systems
+176,Anbindung,die Integration von etwas in ein System. 
+177,Active Directory,"Active Directory ermöglicht es, ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner räumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer, Gruppen, Computer, Dienste, Server, Dateifreigaben und andere Geräte wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren, bereitstellen und überwachen. "
+178,Gruppe,Repräsentation einer Abteilung im Active Directory
+179,Gruppenname,Die Bezeichnung einer Gruppe
+180,Attribut,Merkmal eines Objekts
+181,Abgleich,"Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht, so dass jedes System die aktualisierten Daten enthält. "
+182,Rechtevergabe,Einem Benutzer werden Rechte zugeteilt
+183,Sperren,Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
+184,IT-Vertrag,"Ein Vertragstyp. Mögliche Untertypen: Software, Hardware, …"
 185,Passwort,
 186,Authentifizierung,
 187,Errinnerungsmail,
