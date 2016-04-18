@@ -1,0 +1,13 @@
+Wie definieren Sie Eskalation und damit verbunden Eskalationsstufen und Eskalationsmanagement?
+
+Welche Eskalationsstufen soll es geben?
+
+Was verstehen Sie unter einem Bericht und wie sollen diese im "Berichtswesen" gehandhabt werden?
+
+Sind Originalvertraege zwangsweise in Papierform und unterschrieben vorhanden oder kann ein Originalvertrag auch ausschließlich in digitaler Form, und somit nicht von Hand unterzeichnet, vorliegen?
+
+Wann und in welcher Form werden uns die Daten des erwaehnten Active Directory zur Verfuegung gestellt?
+
+Welche Gruppen gehoeren zur "zentralen Stelle"?
+
+Welche Lizenzen duerfen fuer die Implementierung verwendet werden?
