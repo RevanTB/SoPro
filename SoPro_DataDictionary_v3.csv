@@ -1,46 +1,46 @@
 Nummer;Nomen;Typ;Bedeutung
-1;Standort;;Physikalischer Ort an dem ein Teil des Unternehmens seinen Sitz hat
-2;Vertrag;;Schriftliche und bindende Abmachung zwischen zwei oder mehr beteiligten Parteien. Koordiniert und regelt deren Verhalten (in bestimmten Bereichen/Themen)
-3;Betroffene;;Personen oder Gruppen die von einem Vertrag beeinflusst werden
+1;Standort;Klasse;Physikalischer Ort an dem ein Teil des Unternehmens seinen Sitz hat
+2;Vertrag;Klasse;Schriftliche und bindende Abmachung zwischen zwei oder mehr beteiligten Parteien. Koordiniert und regelt deren Verhalten (in bestimmten Bereichen/Themen)
+3;Betroffene;Klasse;Personen oder Gruppen die von einem Vertrag beeinflusst werden
 4;Vertragsinhalte;;Informationen die ein Vertrag beinhaltet
-5;Vertragsaenderung;;Anpassungen die vor oder nach dem Abschluss des Vertrages getaetigt werden
+5;Vertragsaenderung;Systemoperation;Anpassungen die vor oder nach dem Abschluss des Vertrages getaetigt werden
 6;Uebersicht;;Listen in digitaler oder analoger Form die einen Ueberblick ueber laufende Vertraege geben
 7;Zugriff;;Lesende oder schreibende Handlung einer oder mehrerer Personen die sich auf vorhandene Daten beziehen
 8;Auswertungen;;Sammlung von Informationen ueber mehr als einen Vertrag
-9;Terminueberwachung;;Sicherstellung dass im Vertrag festgelegte Termine eingehalten werden
-10;Fristueberwachung;;Sicherstellung dass im Vertrag festgelegte Fristen eingehalten werden
+9;Terminueberwachung;Klasse;Sicherstellung dass im Vertrag festgelegte Termine eingehalten werden
+10;Fristueberwachung;Klasse;Sicherstellung dass im Vertrag festgelegte Fristen eingehalten werden
 11;Mandantenfaehigkeit;;Moeglichkeit mehrere Mandanten (Kunden/Auftraggeber) bedienen zu koennen
-12;Workflowengine;;Softwareanwendung mit Benachrichtigungsfunktion und Eskalationsmanagement die Geschaeftsprozesse verwaltet - Typischerweise mit Datenbankanbindung - Bestandteil von Vertragsverwaltungssoftware
+12;Workflowengine;Klasse(n);Softwareanwendung mit Benachrichtigungsfunktion und Eskalationsmanagement die Geschaeftsprozesse verwaltet - Typischerweise mit Datenbankanbindung - Bestandteil von Vertragsverwaltungssoftware
 13;Benachrichtigungswesen;;Moeglichkeit betroffene Personen und Gruppen automatisch zu informieren/benachrichtigen - Bestandteil von Vertragsverwaltungssoftware
 14;Vertragsverwaltungssoftware;;Computerprogramm dass zur Verwaltung von Vertraegen verwendet wird
-15;Dokumentenverwaltung;;Digitale Platform auf der man Dokumente verwalten kann - Bestandteil von Vertragsverwaltungssoftware
-16;Organisationseinheit;;Einteilung von Mandanten mit bestimmten Aufgabenbereichen in Gruppen
-17;Besitzer;;Verantwortlicher fuer einen Vertrag - gehoert der Organisationseinheit an an die der Vertrag gebunden ist
-18;Mandantenuebergreifend;;Zustand von Organisationseinheiten deren Mandanten ueber die Organisationseinheit hinaus taetig sind
-19;Vorstand;;Leitungsorgan eines Unternehmens - mandantenuebergreifende Organisationseinheit
-20;Servicecenter;;Erbringen Dienstleistungen fuer andere Unternehmensbereiche - mandantenuebergreifende Organisationseinheit
-21;IT;;Informationstechnologie-Abteilung - mandantenuebergreifende Organisationseinheit
-22;Kosten;;Zu zahlende Geldmittel die durch einen Vertrag anfallen
-23;Kostenstelle;;Ort der Kostenentstehung und Leistungserbringung
-25;Supportvertrag;;Vertrag der Supportangelegenheiten regelt - Vertragsart
-26;Mietvertrag;;Vertrag der eine Miete regelt - Vertragsart
-27;Kooperationsvertrag;;Vertrag der die Kooperation verschiedener Einheiten (z.B. Unternehmen) regelt - Vertragsart
-29;Kostenart;;Zuordnung von Vertraegen hinsichtlich ihrer Kosten
-30;EDV-Vertrag;;Vertrag welcher der Elektronischen Datenverarbeitung zugeordnet wird - Kostenart
-31;Telekommunikationsvertrag;;Vertrag der in den Bereich der Telekommunikation faellt - Kostenart
+15;Dokumentenverwaltung;Klasse;Digitale Platform auf der man Dokumente verwalten kann - Bestandteil von Vertragsverwaltungssoftware
+16;Organisationseinheit;Attribut;Einteilung von Mandanten mit bestimmten Aufgabenbereichen in Gruppen
+17;Besitzer;Attribut;Verantwortlicher fuer einen Vertrag - gehoert der Organisationseinheit an an die der Vertrag gebunden ist
+18;Mandantenuebergreifend;Attribut;Zustand von Organisationseinheiten deren Mandanten ueber die Organisationseinheit hinaus taetig sind
+19;Vorstand;Attribut;Leitungsorgan eines Unternehmens - mandantenuebergreifende Organisationseinheit
+20;Servicecenter;Attribut;Erbringen Dienstleistungen fuer andere Unternehmensbereiche - mandantenuebergreifende Organisationseinheit
+21;IT;Attribut;Informationstechnologie-Abteilung - mandantenuebergreifende Organisationseinheit
+22;Kosten;Attribut;Zu zahlende Geldmittel die durch einen Vertrag anfallen
+23;Kostenstelle;Attribut;Ort der Kostenentstehung und Leistungserbringung
+25;Supportvertrag;Attribut;Vertrag der Supportangelegenheiten regelt - Vertragsart
+26;Mietvertrag;Attribut;Vertrag der eine Miete regelt - Vertragsart
+27;Kooperationsvertrag;Attribut;Vertrag der die Kooperation verschiedener Einheiten (z.B. Unternehmen) regelt - Vertragsart
+29;Kostenart;Attribut;Zuordnung von Vertraegen hinsichtlich ihrer Kosten
+30;EDV-Vertrag;Attribut;Vertrag welcher der Elektronischen Datenverarbeitung zugeordnet wird - Kostenart
+31;Telekommunikationsvertrag;Attribut;Vertrag der in den Bereich der Telekommunikation faellt - Kostenart
 32;Ueberwachung;;Sicherstellung dass alle Bereiche eines Systems ordnungsgemaes arbeiten - durch Workflow-Engine realisiert
-33;Benachrichtigungsfunktion;;Automatisierte digitale Informationsuebermittlung um Beteiligte eines Vertrages ueber Neuigkeiten auf dem Laufenden zu halten - Bestandteil einer Workflow-Engine
-34;Eskalationsmanagement;;Automatische digitales Errinnerungssystem fuer Koordinator und Vertragsinhaber - Bestandteil einer Workflow-Engine
-35;Benachrichtigung;;Informationsuebermittlung - meist ueber digitalen Weg - die Anwender ueber Neuigkeiten informiert
-36;automatisch erstellte E-Mail;;E-Mail die durch die Workflow-Engine auf Basis von vordefinierten Bausteinen erstellt wird um Benutzer zu informieren
+33;Benachrichtigungsfunktion;Klasse;Automatisierte digitale Informationsuebermittlung um Beteiligte eines Vertrages ueber Neuigkeiten auf dem Laufenden zu halten - Bestandteil einer Workflow-Engine
+34;Eskalationsmanagement;Klasse;Automatische digitales Errinnerungssystem fuer Koordinator und Vertragsinhaber - Bestandteil einer Workflow-Engine
+35;Benachrichtigung;Klasse;Informationsuebermittlung - meist ueber digitalen Weg - die Anwender ueber Neuigkeiten informiert
+36;automatisch erstellte E-Mail;Systemoperation;E-Mail die durch die Workflow-Engine auf Basis von vordefinierten Bausteinen erstellt wird um Benutzer zu informieren
 37;Dispatcher-Funktion;;-> siehe Dispatcher
-39;Eskalationsstufe;;?
-40;Person;;Benutzer
+39;Eskalationsstufe;Attribut;?
+40;Person;Agent;Benutzer
 42;Deligiert;;Vergabe von Aufgaben(-bereichen) an Personen
-43;Aufgaben;;Dinge die Personen auf Grund ihres Berufes und den damit verbundenen Pflichten zu erledigen haben
-44;Berechtigungen;;Das Recht fuer bestimmte Personen besondere Aufgaben zu erledigen
+43;Aufgaben;Klasse;Dinge die Personen auf Grund ihres Berufes und den damit verbundenen Pflichten zu erledigen haben
+44;Berechtigungen;Attribut;Das Recht fuer bestimmte Personen besondere Aufgaben zu erledigen
 45;Technischer Betrieb;;Beispiel fuer Organisationseinheit mit Aufgaben durch die sie von Aenderungen (z.B. hinsichtlich Eskalationsstufen) betroffen ist
-46;Mandant;;Kunde bzw. Auftraggeber eines Vertrages bzw. vom Vertrag betroffene Personen
+46;Mandant;Agent;Kunde bzw. Auftraggeber eines Vertrages bzw. vom Vertrag betroffene Personen
 48;Rahmenvertraege;;Besteht aus mehreren Einzelvertraegen
 49;Einzelvertraege;;Ein Vertrag der mit anderen zu einem Rahmenvertrag gebuendelt werden kann
 50;Berichtswesen;;Geziehlte Darstellung anhang von ausgewählten Merkmalen
