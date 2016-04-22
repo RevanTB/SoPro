@@ -41,32 +41,32 @@ Nummer;Nomen;Typ;Bedeutung
 44;Berechtigungen;;Das Recht fuer bestimmte Personen besondere Aufgaben zu erledigen
 45;Technischer Betrieb;;Beispiel fuer Organisationseinheit mit Aufgaben durch die sie von Aenderungen (z.B. hinsichtlich Eskalationsstufen) betroffen ist
 46;Mandant;;Kunde bzw. Auftraggeber eines Vertrages bzw. vom Vertrag betroffene Personen
-48;Rahmenvertraege;;Besteht aus mehreren Einzelvertraegen
-49;Einzelvertraege;;Ein Vertrag der mit anderen zu einem Rahmenvertrag gebuendelt werden kann
-50;Berichtswesen;;Geziehlte Darstellung anhang von ausgewählten Merkmalen
+48;Rahmenvertraege;Klasse;Besteht aus mehreren Einzelvertraegen
+49;Einzelvertraege;Klasse;Ein Vertrag der mit anderen zu einem Rahmenvertrag gebuendelt werden kann
+50;Berichtswesen;Klasse;Geziehlte Darstellung anhang von ausgewählten Merkmalen
 51;Exportmoeglichkeit;;Daten koennen aus dem Programm fuer andere Nutzung zur Verfuegung gestellt werden(Welchen Daten in welcher Form)
-52;Dokument;;Kann einen Vertrag oder anderen Schriftverkehr darstellen
-53;Fundortverwaltung;;System zur auffindung der Aufenthaltsorte von originalen Verträgen
+52;Dokument;Klasse;Kann einen Vertrag oder anderen Schriftverkehr darstellen
+53;Fundortverwaltung;Klasse;System zur auffindung der Aufenthaltsorte von originalen Verträgen
 54;Originale;;
 55;Vertragsabschluss;;
 56;Anlage;;es ist das anlegen eines Vertrags gemeint
-57;Vertragsinhaber;;Haelt den Vertrag zuerst in den haenden und bearbeitet diesen
-58;Bearbeitungsstatus;;Gibt an ob alle Pflichtfelder bearbeitet wurden
-60;Pflichtfelder;;Markiert Angaben in einem Formular die ausgefuellt werden muessen
+57;Vertragsinhaber;Attribut;Haelt den Vertrag zuerst in den haenden und bearbeitet diesen
+58;Bearbeitungsstatus;Attribut;Gibt an ob alle Pflichtfelder bearbeitet wurden
+60;Pflichtfelder;Attribut;Markiert Angaben in einem Formular die ausgefuellt werden muessen
 61;Vertragsmanagement;;Ist eine Vertragsverwaltungssoftware
-62;Zuordnung;;Einteilung eines Koordinators fuer einen Vertrag
-63;Vertragsname;;Name den der Vertrag erhalten soll
-64;Koordinator;;Der zustsaendige Bereich(Regionalleiter DLZ-Leiter...)
-65;Status;;Gibt an ob ein Vertrag vollstaendig ist
-66;Liste;;Ausgabe unvollstaendiger Vertraege
+62;Zuordnung;Assoziation;Einteilung eines Koordinators fuer einen Vertrag
+63;Vertragsname;Attribut;Name den der Vertrag erhalten soll
+64;Koordinator;Attribut;Der zustsaendige Bereich(Regionalleiter DLZ-Leiter...)
+65;Status;Attribut;Gibt an ob ein Vertrag vollstaendig ist
+66;Liste;Klasse;Ausgabe unvollstaendiger Vertraege
 67;Aufgabe;;Bei Vertragsanlage Dispatcher anlegen
 68;Vertragsanlage;;Den Vertrag im System aufnehmen
 69;Mailbenachrichtigung;;Mitteilung an den Koordinator das ein Vertrag zugeordnet wurde
 71;System;;Stellt das Vetragsmanagement da
 72;Detailansicht;;Stellt genaue Angaben zum Vertrag da
-73;Dispatcher;;Pflegt Vertragsdaten bestimmt Koordinatoren und ueberwacht Laufzeiten sowie Fristen
+73;Dispatcher;Attribut;Pflegt Vertragsdaten bestimmt Koordinatoren und ueberwacht Laufzeiten sowie Fristen
 74;Link;;Moeglichkeit aus Email schnell Details eines Vertrags zu sehen
-75;Vollstaendigkeit;;Alle Pflichtfelder sind ausgefuellt und Kopie des Vertrags hochgeladen
+75;Vollstaendigkeit;Attribut;Alle Pflichtfelder sind ausgefuellt und Kopie des Vertrags hochgeladen
 76;Speichern;;Sicherung der Eingaben
 77;Bedingung;;Voraussetzung zum Hochladen eines Dokuments
 78;Kopie;;Digitalisierte Version des Originals
@@ -74,11 +74,11 @@ Nummer;Nomen;Typ;Bedeutung
 81;Programm;;Das Vertragsmanagement
 82;Eingabe;;Benoetigte Daten fuer den Vertrag
 84;Aufgabenfenster;;Liste der offenen Aufgaben
-85;Inhaber;;Ist Vertragsinhaber
+85;Inhaber;Attribut;Ist Vertragsinhaber
 86;Sonderfall;;Abweichung vom Normalfall falls zentrale Stelle im Vertrag zwischengeschaltet wird
 89;Zentrale Stelle;;
 90;Software;;Das Vertragsmanagementsystem
-91;Zuweisung;;Einem Vertrag wird ein Koordinator zugeteilt
+91;Zuweisung;Assoziation;Einem Vertrag wird ein Koordinator zugeteilt
 92;Moeglichkeit;;(zu allgemein -> weg lassen)
 93;Flag;;binaere Variable oder Statusindikator, welcher als Hilfsmittel zur Kennzeichnung bestimmter Zustaende benutzt werden kann. Kann gesetzt, geloescht oder ausgelesen werden
 94;Standardauswertung;;vordefiniertes Schema zur Informationsaufbereitung
