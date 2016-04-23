@@ -119,19 +119,19 @@ Nummer;Nomen;Typ;Bedeutung
 140;Loeschung;;Entfernen von Daten aus der Datenhaltung
 141;Organigramm;;ein Schaubild das in Form einer Pfeilgrafik Strukturen innerhalb eines Unternehmens zeigt.
 142;Unternehmen;;Eine Firma. In diesem Fall die Bezirkskliniken Schwaben.
-143;Unternehmensleitung;;Ein Mandant. Die Aufgabe der Unternehmensfuehrung besteht in finalen Entscheidungen ueber betriebliche Ablaeufe, Unterzeichnung von Vertraegen, die das ganze Unternehmen betreffen, und in der Bekleidung einer repraesentativen Rolle.
+143;Unternehmensleitung;;Ein Mandant. Die Aufgabe der Unternehmensfuehrung besteht in finalen Entscheidungen ueber betriebliche Ablaeufe, Unterzeichnung von Vertraegen, die das ganze Unternehmen betreffen, und in der Bekleidung einer repraesentativen Rolle.;
 144;Bezirkskrankenhaus;;Ein Mandant.
 145;Buchhaltungssicht;;Wie ein Sachverhalt vom Standpunkt der Buchhaltung gesehen wird.
-146;Buchungskreise;;Die Art und Weise wie Mandanten in der Buchhaltung eingeteilt werden.
+146;Buchungskreise;Assoziation;Die Art und Weise wie Mandanten in der Buchhaltung eingeteilt werden.
 147;Wohnen und Foerdern;;Ein Mandant.
-148;Unterabteilung;;kleinere Abteilung in einer groesseren
-149;Abteilungsleitung;;Die Abteilungsleitung sind die Fuehrungskraefte einer Organisationseinheit, der Abteilung.
-150;Stellvertreter;;jmd. Der einen anderen vertritt und fuer eine gewisse Zeit seine Aufgaben uebernimmt.
-151;Liegenschaften;;Ein Grundstueck in der Rechts- und Wirtschaftssprache
-152;Leistungsempfaenger;;jmd. der Aufwenungen erhaelt
-153;Leistungsbringer;;jmd. der Aufwenungen erbringt
-154;Vertragstyp;;Kategorie in die sich ein Vertrag einordnen laesst. Kann auch Unterkategorien haben
-155;Vertragsart;;Kategorie in die sich ein Vertrag einordnen laesst.
+148;Unterabteilung;Assoziation;kleinere Abteilung in einer groesseren
+149;Abteilungsleitung;Assoziation;Die Abteilungsleitung sind die Fuehrungskraefte einer Organisationseinheit, der Abteilung.
+150;Stellvertreter;Assoziation;jmd. Der einen anderen vertritt und fuer eine gewisse Zeit seine Aufgaben uebernimmt.
+151;Liegenschaften;Klasse;Ein Grundstueck in der Rechts- und Wirtschaftssprache
+152;Leistungsempfaenger;Attribut;jmd. der Aufwenungen erhaelt
+153;Leistungsbringer;Attribut;jmd. der Aufwenungen erbringt
+154;Vertragstyp;Attribut;Kategorie in die sich ein Vertrag einordnen laesst. Kann auch Unterkategorien haben
+155;Vertragsart;Attribut;Kategorie in die sich ein Vertrag einordnen laesst.
 156;Hardware;;Ein Vertragstyp. Die Geraete die zu einer Datenverarbeitungsanlage gehoeren.
 157;Merkmal;;ein charakteristisches Kennzeichen das typisch fuer jmdn. oder etwas ist.
 158;Kauf;;Vertragsart
@@ -143,23 +143,23 @@ Nummer;Nomen;Typ;Bedeutung
 164;Export;;Hinzufuegen von Daten in ein anderes System aus der Datenhaltung
 165;Importfunktion;;Bereitstellen einer Schnittstelle zum Import
 166;Exportfunktion;;Bereitstellen einer Schnittstelle zum Export
-167;Kostenstellenplan;;Der Kostenstellenplan ist eine systematisch geordnete Zusammenstellung aller Kostenstellen eines Unternehmens
+167;Kostenstellenplan;Klasse;Der Kostenstellenplan ist eine systematisch geordnete Zusammenstellung aller Kostenstellen eines Unternehmens
 168;Eingabemaske;;In einer EDV-Anlage werden neue Daten fuer die Speicherung in einer Maske erfasst.
 169;Minimalanforderung;;Als Mindestanforderungen bezeichnet man allgemein die Anforderungen an technische wie nichttechnische Systeme, Produkte, Dienstleistungen oder Prozesse, die zur Erreichung von vordefinierten Mindestzielen erforderlich sind.
-170;csv-Datei;;Das Dateiformat CSV steht fuer englisch Comma-separated values und beschreibt den Aufbau einer Textdatei zur Speicherung oder zum Austausch einfach strukturierter Daten.
+170;csv-Datei;Klasse;Das Dateiformat CSV steht fuer englisch Comma-separated values und beschreibt den Aufbau einer Textdatei zur Speicherung oder zum Austausch einfach strukturierter Daten.
 171;Kreditor;;Ein Kreditor ist im deutschen Rechnungswesen der Glaeubiger von Forderungen aus Lieferungen und Leistungen.
 172;Debitor;;Schuldner der Waren oder Leistungen auf Kredit bezogen hat.
 173;Formular;;Vordruck mit Feldern in die bestimmte Informationen eingetragen werden sollen.
-174;Stellvertretender Dispatcher;;leitender Angestellter zur Ueberwachung (industrieller) Produktionsablaeufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfuegung stehenden Mittel und gewaehrleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
-175;User;;Der Benutzer eines Systems
+174;Stellvertretender Dispatcher;Assoziation;leitender Angestellter zur Ueberwachung (industrieller) Produktionsablaeufe. Steuert auf der Leitungsebene eines Betriebes den optimalen Einsatz der zur Verfuegung stehenden Mittel und gewaehrleistet den entsprechenden Informationsfluss und den materiellen Handlungsfluss.
+175;User;Klasse;Der Benutzer eines Systems
 176;Anbindung;;die Integration von etwas in ein System.
 177;Active Directory;;Active Directory ermoeglicht es, ein Netzwerk entsprechend der realen Struktur des Unternehmens oder seiner raeumlichen Verteilung zu gliedern. Dazu verwaltet es verschiedene Objekte in einem Netzwerk wie beispielsweise Benutzer, Gruppen, Computer, Dienste, Server, Dateifreigaben und andere Geraete wie Drucker und Scanner und deren Eigenschaften. Mit Hilfe von Active Directory kann ein Administrator die Informationen der Objekte organisieren, bereitstellen und ueberwachen.
-178;Gruppe;;Repraesentation einer Abteilung im Active Directory
-179;Gruppenname;;Die Bezeichnung einer Gruppe
+178;Gruppe;Klasse;Repraesentation einer Abteilung im Active Directory
+179;Gruppenname;Attribut;Die Bezeichnung einer Gruppe
 180;Attribut;;Merkmal eines Objekts
 181;Abgleich;;Das Replizieren von Daten zwischen zwei oder mehreren Systemen. Dabei werden die Daten untereinander ausgetauscht, so dass jedes System die aktualisierten Daten enthaelt.
 182;Rechtevergabe;;Einem Benutzer werden Rechte zugeteilt
-183;Sperren;;Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
+183;Sperren;Attribut;Ein gesperrter Benutzer ist von der Benutzung des Systems ausgeschlossen.
 184;IT-Vertrag;;Ein Vertragstyp. Moegliche Untertypen: Software, Hardware, …
 185;Passwort;Attribut;Dient dem System zur Authentifizierung eines Benutzers.
 186;Authentifizierung;Assoziation;Sicherstellung der Identitaet eines Benutzers.
