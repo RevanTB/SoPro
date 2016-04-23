@@ -203,19 +203,19 @@ Nummer;Nomen;Typ;Bedeutung
 235;Lohnsteigerungsindex;Attribut;kann auswirkung auf die Kosten eines Vertrags haben
 236;Zahlungsintervall;Attribut;wie oft muss gezahlt werden (in Monaten)
 238;Belastung;;Im Sinne von ein Konto belasten
-239;Vertragspartner;;Die Partner zwischen denen der Vertrag abgeschlossen wurde
+239;Vertragspartner;Assoziation;Die Partner zwischen denen der Vertrag abgeschlossen wurde
 241;Inkrafttreten;;wenn der Vertrag seine gueltigkeit erlangt
-242;Vertragsbeginn;;Das Datum des inkrafttretens des Vertrags
-243;Kuendigungsfrist;;Wie lange im Vorraus muss der Vertrag gekuendigt werden
-244;Kuendigungstermin;;das Datum zu dem der Vertrag gekuendigt werden kann
+242;Vertragsbeginn;Klasse;Das Datum des inkrafttretens des Vertrags
+243;Kuendigungsfrist;Klasse;Wie lange im Vorraus muss der Vertrag gekuendigt werden
+244;Kuendigungstermin;Klasse;das Datum zu dem der Vertrag gekuendigt werden kann
 245;Vorzeitig;;noch bevor der Vertrag ablaeuft
-247;Vertragsende;;Der Tag an dem der Vertrag automatisch ablaeuft
-248;Erinnerung;;Erinnerung an Aufgaben die erledigt werden muessen
+247;Vertragsende;Klasse;Der Tag an dem der Vertrag automatisch ablaeuft
+248;Erinnerung;Klasse;Erinnerung an Aufgaben die erledigt werden muessen
 251;Feld;;Feld in der GUI
-252;Berechnungshilfe;;kleines Tool das das Datum anhand einer Restlaufzeit berechnet
-253;Erinnerungsdatum;;Der Tag an dem der dispatcher an eine Aufgabe erinnert wurde
-254;Vertragsstatus;;Ein Vertrag kann mehrere Stati haben bsp Aktiv beendet gekuendigt
-255;Elektronisches Vertragsdokument;;elektronische Kopie des Vertragsdokuments
+252;Berechnungshilfe;Klasse;kleines Tool das das Datum anhand einer Restlaufzeit berechnet
+253;Erinnerungsdatum;Klasse;Der Tag an dem der dispatcher an eine Aufgabe erinnert wurde
+254;Vertragsstatus;Klasse;Ein Vertrag kann mehrere Stati haben bsp Aktiv beendet gekuendigt
+255;Elektronisches Vertragsdokument;Klasse;elektronische Kopie des Vertragsdokuments
 256;Ablaufen;;Der Vertrag verliert seine Gueltigkeit
 257;Benutzeroberflaeche;;GUI
 258;Ladezeit;;Die Zeit die das System benoetigt um die Seiten aufzurufen
@@ -231,9 +231,9 @@ Nummer;Nomen;Typ;Bedeutung
 268;Bedienung;;die Handhabung des Programms
 269;Client;;Das System das das Programm ausfuehrt
 270;Clientinstallation;;eine Installation auf dem Client
-271;Datenbank;;ein Tool zum Speichern von Daten
+271;Datenbank;Klasse;ein Tool zum Speichern von Daten
 272;MSSQL2014;;eine Datenbank von Microsoft
 273;Single Sign on;;Weitergabe der Windows Anmeldeinformationen an das System um eine Authentifizierung vorzunehmen
-274;Anmeldung;;die authentifizierung des Benutzers im System
+274;Anmeldung;Assoziation;die authentifizierung des Benutzers im System
 275;Leasing;;Vertragsart
 276;Version;;eine von mehreren Varianten eines geschriebenen Textes die sich in Details unterscheiden
