@@ -1,0 +1,20 @@
+Steffi
++weiterführenVertrag() {Unterzeichner}
++kündigenVertrag() {Unterzeichner}
++anzeigenVertrag(): Vertrag {Nutzer, Dispatcher, Koordinator, sachlichVerantwortlicher, Unterzeichner, gibt einen Vertrag zurück dessen Werte dann je nach Einstellungen ausgelesen werden}
+
+Norman
++bearbeitenVertrag(vertrag: Vertrag):Boolean
+{Dispatcher, Koordinator, sachlichVerantwortlicher, Unterzeichner, die Werte vom veränderten Vertrag werden übernommen}
++hochladenVertrag(bezeichnung, kategorie, optional bemerkung){}
++setzeGelöscht(){}
+
+Moritz
++ import_csv()
++ export_csv()
++ kostenstellenplanAnlegen()
+
+Christoph
++getKostenGesamt(verträge : Vertrag[1..*]) : Double
+-prüfeAktiveVerträge():Boolean
+-prüfeVertrag(vertrag:Vertrag)
